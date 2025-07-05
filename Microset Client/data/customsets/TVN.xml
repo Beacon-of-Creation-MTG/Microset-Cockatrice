@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TVN</name>
+      <longname>Titans of Viludin Microset</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Crackling Eel</name>
+      <set rarity="rare">TVN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> 1R —  </text>
+    </card>
+    <card>
+      <name>Grandir, the Storm-Bodied</name>
+      <set rarity="mythic">TVN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>5UR</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Serpent Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+You have no maximum hand size.
+At the beginning of your end step, draw a card for each card you discarded this turn. When you do, Grandir deals damage to any target equal to the number of cards you drew this way.</text>
+    </card>
+    <card>
+      <name>Ka&apos;bi, the Bloomhoof</name>
+      <set rarity="mythic">TVN</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>4RG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Elemental Elk </type>
+        <maintype>Creature</maintype>
+        <pt>8/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Ka’bi enters, sacrifice any number of lands. Then for each land card in your graveyard, search your library and/or graveyard for a land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Ava, Thorny Diva</name>
+      <set rarity="rare">TVN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Dryad Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Overwhelm — Whenever Ava becomes tapped, add {G}. If you control a permanent with mana value 5 or greater, add GG instead. You don’t lose this mana as steps and phases end.</text>
+    </card>
+    <card>
+      <name>Crossbone Cove Cutter</name>
+      <set rarity="rare">TVN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Menace
+Whenever this Vehicle attacks, you lose 1 life and draw a card. If this Vehicle was crewed 5 or greater this turn, you lose 3 and draw three cards instead.
+Crew 1</text>
+    </card>
+    <card>
+      <name>Superb Salvage</name>
+      <set rarity="rare">TVN</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped with a salvage counter on it. It gains “When this permanent is put into your graveyard from the battlefield, return it to the battlefield tapped.”</text>
+    </card>
+    <card>
+      <name>Mistcutter Attendant</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When this creature enters, return up to one other target nonland permanent you control to its owner’s hand. If a permanent was returned this way, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Jahan&apos;s Pets</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bat Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+3B, Sacrifice this creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Cephalid Strategist</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Octopus Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature becomes tapped, untap up to two other target artifacts and/or creatures you control. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Abyssal Sea-Witch</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards are put into your graveyard from your library, each opponent loses 2 life and you gain 2 life. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Reckless Innovator</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dwarf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an artifact you control is put into a graveyard from the battlefield, this creature deals 1 damage to target player or planeswalker and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Lava Flow Hellbender</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Salamander </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+At the beginning of combat on your turn, mill two cards, then this creature gets +1/+0 until end of turn for each land card in your graveyard.</text>
+    </card>
+    <card>
+      <name>Riding Turtle</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> GW —  </text>
+    </card>
+    <card>
+      <name>Surly Maintainer</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, return up to one target artifact you control or artifact card in your graveyard to your hand.
+{4}: Create a 1/1 white Sailor artifact creature token with “This token crews Vehicles as though its power were 2 greater.”</text>
+    </card>
+    <card>
+      <name>Chordatan Bloodseeker</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shark Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you draw a card except the first one you draw each turn, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Hungering Greatleech</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>5BG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Leech </type>
+        <maintype>Creature</maintype>
+        <pt>6/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> 2BG —  </text>
+    </card>
+    <card>
+      <name>Relentless Reconstructionist</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, exile up to one target artifact card with mana value 4 or less from your graveyard. Create a token that’s a copy of the exiled card except it’s a 3/3 Construct creature in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Tyrant Territory</name>
+      <set rarity="uncommon">TVN</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Permanent spells you cast with mana value 5 or greater cost {1} less to cast.
+Mature costs you pay cost {1} less.
+Whenever a permanent you control with mana value 5 or greater enters or a creature you control matures, draw a card.</text>
+    </card>
+    <card>
+      <name>Sunvine Nurturer</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Satyr Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When this creature enters, you gain 1 life and you draw a card.</text>
+    </card>
+    <card>
+      <name>Steelfin Dolphin</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Whale </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> W —  </text>
+    </card>
+    <card>
+      <name>Skyskimmer Glaucus</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Slug Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature enters or attacks, another target creature you control gains flying until end of turn.
+Plainscycling {2}  ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Goldseeker Cruiser</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+Whenever another artifact enters under your control, if this Vehicle isn’t a creature, it becomes an artifact creature until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Mercurial Skyrod</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Sea Witch&apos;s Wards</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may embrace. (To embrace, tap two artifacts and/or creatures you control)
+Counter target noncreature spell unless its controller pays {2}. If you embraced as you cast this spell, counter that spell instead.</text>
+    </card>
+    <card>
+      <name>Titanic Haruspicy</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards
+Overwhelm — If you control a permanent with mana value 5 or greater, draw three cards instead.</text>
+    </card>
+    <card>
+      <name>Observant Osprey</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> U —  </text>
+    </card>
+    <card>
+      <name>Abyssal Tempter</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Fish </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> 2B —  </text>
+    </card>
+    <card>
+      <name>Deadman&apos;s Tales</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Overwhelm — Surveil 2. If you control a permanent with mana value 5 or greater, surveil 4 instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+You draw two cards and you lose 2 life.</text>
+    </card>
+    <card>
+      <name>Inktrench Stinger</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Jellyfish </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever this creature enters or attacks, another target creature you control gains deathtouch until end of turn.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Noxious Venting</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-2 until end of turn. If an artifact you controlled left the battlefield this turn, that creature gets -4/-4 until end of turn instead.</text>
+    </card>
+    <card>
+      <name>Overloaded Cannonship</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Vehicle enters, it deals 6 damage to target creature you don’t control.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Powderkeg Explosion</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Powderkeg Explosion deals 2 damage to any target. If a creature or planeswalker dealt damage this way would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Expedition Funding</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters or leaves the battlefield, you may discard a card. If you do, draw a card.
+{T}, Sacrifice this artifact: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Bursting Vein Serpent</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature enters, it deals 3 damage to each opponent.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Elemental&apos;s Flourish</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature you control and target creature you don’t control. Put a +1/+1 counter on the creature you control if there are two or more land cards in your graveyard. Then those creatures fight. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Mosstusk Guardian</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Elemental Boar </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Quaking Tunneler</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Mole Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> 1G —  </text>
+    </card>
+    <card>
+      <name>Give In to Instinct</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 and gains trample until end of turn. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Cogwork Ichthyoid</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Treasure Fish </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}: Add one mana of any color. Activate only once each turn.
+{T}, Sacrifice this creature: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Research Vessel</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Vehicle enters, look at the top three cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Uncovered Pitfall</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card.
+{4}, {T}, Sacrifice this artifact: Destroy target creature without flying. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Deckhand&apos;s Blade</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Equipment enters, create a 1/1 white Sailor artifact creature token with “This token crews Vehicles as though its power were 2 greater”, then attach this Equipment to it.
+Equipped creature gets +1/+2
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Stormbelt Serpent</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> 2U —  </text>
+    </card>
+    <card>
+      <name>Explosive Rage</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +3/+2 until end of turn. If there are two or more land cards in your graveyard, that creature gains first strike and trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Propagated Bioship</name>
+      <set rarity="common">TVN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Vehicle enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

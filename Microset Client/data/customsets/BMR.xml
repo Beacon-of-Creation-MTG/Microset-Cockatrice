@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>BMR</name>
+      <longname>Behemoth’s Rise Microset</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Raeden, Behemoth&apos;s Heart</name>
+      <set rarity="mythic" splitterPath="/Raeden, Behemoth's Heart.png" >BMR</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Raeden </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>[+2]: Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.
+[0]: Draw two cards, then discard a card
+[-3]: Destroy target nonland permanent with mana value 4 or less
+[-10]: Transform Raeden, Behemoth’s Heart
+---
+(Back): Raeden, Heart Unleashed</text>
+      <related attach="transform">Raeden, Heart Unleashed</related>
+    </card>
+    <card>
+      <name>Raeden, Heart Unleashed</name>
+      <set rarity="mythic" splitterPath="/Raeden, Heart Unleashed.png" >BMR</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact Creature - Avatar </type>
+        <pt>12/12</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, Undying
+At the beginning of your upkeep, create four 1/1 colorless Thopter creature tokens with flying and four 1/1 green Saproling creature tokens.
+Whenever another creature you control dies, draw a card.
+---
+(Front): Raeden, Behemoth&apos;s Heart</text>
+      <related attach="transform">Raeden, Behemoth&apos;s Heart</related>
+    </card>
+    <card>
+      <name>Jorrin, Stormheart&apos;s Blade</name>
+      <set rarity="rare">BMR</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>1GUR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Whenever one or more modified creatures you control deal combat damage to a player, you may draw a card. If you do, discard a card. (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Evara, Ashheart&apos;s Flame</name>
+      <set rarity="rare">BMR</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>RWB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike, undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+Other creatures you control have undying.</text>
+    </card>
+    <card>
+      <name>Aeron, Zephyrheart&apos;s Vale</name>
+      <set rarity="rare">BMR</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Other creatures you control with flying have ward {1}.
+Spells that you cast that target creatures with flying cost {1} less.</text>
+    </card>
+    <card>
+      <name>Syris, Thornheart&apos;s Guard</name>
+      <set rarity="rare">BMR</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>1WBG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the beginning of each upkeep, create a 1/1 green Saproling creature token.
+Sacrifice X Saprolings: Prevent the next X damage that would be dealt to any target.</text>
+    </card>
+    <card>
+      <name>Vessk, Forgeheart&apos;s Maw</name>
+      <set rarity="rare">BMR</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>1BGU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Elf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, create a 1/1 colorless Thopter creature token with flying.
+Sacrifice three artifacts: Put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Aeron&apos;s Vale</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever one or more creatures you control with flying deal combat damage to a player, put a stun counter on target creature that player controls.</text>
+    </card>
+    <card>
+      <name>Stormlash Warden</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature enters, put a +1/+1 counter on each creature that attacked this turn.</text>
+    </card>
+    <card>
+      <name>Resolute Guard</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Blocking creatures you control get +1/+0.</text>
+    </card>
+    <card>
+      <name>Giant Owl</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature attacks, another target attacking creature gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Forgeheart Sentinel</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When this creature enters or dies, return target creature spell with mana value 3 or less from your graveyard to your hand , then you lose life equal to that creature’s mana value.</text>
+    </card>
+    <card>
+      <name>Smoldering Zealot</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Goblin Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When this creature enters, exile the top card of your library. You may play that card this turn.</text>
+    </card>
+    <card>
+      <name>Shard of the Behemoth</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Kicker WUBRG (You may pay an additional WUBRG as you cast this spell.)
+If this artifact was kicked, it enters with a luck counter. 
+{T}: Add one mana of any color. If this artifact has a luck counter on it, add three mana of any color instead.</text>
+    </card>
+    <card>
+      <name>Behemoth-Claw Blade</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has first strike.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Vessk&apos;s Maw</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever a Thopter you control deals combat damage to a player or dies, create a Scrap token. (It’s a colorless artifact token named Scrap)</text>
+    </card>
+    <card>
+      <name>Jorrin&apos;s Blade</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature enters, create a Sword token and attach it to this creature (It’s a colorless Equipment artifact token named Sword with “Equipped creature gets +1/+1” and equip {2})</text>
+    </card>
+    <card>
+      <name>Syris&apos; Guard</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>4GW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Saproling </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a 1/1 green Saproling creature token.
+Whenever one or more Saproling tokens enter under your control, create that many 1/1 green Saproling creature tokens. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Evara&apos;s Flame</name>
+      <set rarity="uncommon">BMR</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phoenix </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+Whenever one or more creatures with counters on them attack, you may remove a counter from one of them.</text>
+    </card>
+    <card>
+      <name>Wrath of the Thornheart</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target creature with power 4 or greater
+• Creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Suncrest Rider</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less for each creature you control.
+When this creature enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Flock Hawk</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, if another player controls more creatures than you, create a 1/1 white Bird creature token with flying.</text>
+    </card>
+    <card>
+      <name>Ashheart Herald</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, you gain 2 life.
+7W, {T}: Return target creature with mana value 3 or less from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Zephyrheart Blessing</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 and has flying</text>
+    </card>
+    <card>
+      <name>Reforged Strix</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When this creature dies, draw a card.</text>
+    </card>
+    <card>
+      <name>Vault</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains flying until end of turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Stormline Severence</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Counter target spell unless its controller pays {X}, where X is the number of modified creature you contol. (Equipment, Auras you control, and counters are modifications.)
+• Draw two cards, then discard a card.</text>
+    </card>
+    <card>
+      <name>Sever the Heartline</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. If you control five or more tokens, you gain 5 life.</text>
+    </card>
+    <card>
+      <name>Forgeheart Researcher</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Scientist </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever another creature with power 1 or less enters under your control, surveil 1.  (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Ashmaw Direhound</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+This creature enters with a +1/+1 counter on it if a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Saproling Incubator</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fungus </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When this creature dies, create a 1/1 green Saproling creature token</text>
+    </card>
+    <card>
+      <name>Windshear</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Windshear deals 2 damage to up to two targets.
+• Destroy target artifact</text>
+    </card>
+    <card>
+      <name>Gather the Weapons</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+0 until end of turn. If you control a modified creature, draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Ashheart Spawn</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When this creature dies, it deals 1 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Zephyrheart Fledgling</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Discover the Heartland</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create a Sword token. (It’s a colorless Equipment artifact token named Sword with “Equipped creature gets +1/+1” and equip {2})</text>
+    </card>
+    <card>
+      <name>Growth Elemental</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a token you control enters, this creature gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Thornheart Sapling</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Tap another untapped creature you control: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Stormheart Captain</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast  </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.
+Modified creatures you control have trample (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Ashheart Shard</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {R}, {W}, or {B}
+RWB, {T}, Sacrifice this artifact: Create a 1/1 red Phoenix creature token with flying and “When this creature dies, create a 1/1 red Phoenix creature token with flying, then put a +1/+1 counter on it.”</text>
+    </card>
+    <card>
+      <name>Thornheart Shard</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {W}, {B}, or {G}
+WBG, {T}, Sacrifice this artifact: Create two 1/1 green Saproling creature tokens.</text>
+    </card>
+    <card>
+      <name>Zephyrheart Shard</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {U}, {R}, or {W}
+URW, {T}, Sacrifice this artifact: Create a 1/1 white Bird creature token with flying.</text>
+    </card>
+    <card>
+      <name>Zephyr Wings</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Equipment enters, draw a card.
+Equipped creature has flying.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Stormheart Scout</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, search your library for a basic land card, reveal it, shuffle, then you may sacrifice an artifact or remove two counters from a permanent you control. If you do, put that card onto the battlefield. Otherwise, put it on top of your library.</text>
+    </card>
+    <card>
+      <name>Forgeheart Shard</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {B}, {G}, or {U}
+BGU, {T}, Sacrifice this artifact: Create a 1/1 colorless Thopter creature token with flying.</text>
+    </card>
+    <card>
+      <name>Stormheart Shard</name>
+      <set rarity="common">BMR</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {G}, {U}, or {R}
+GUR, {T}, Sacrifice this artifact: Create a 1/1 white Human Soldier creature token, then put a +1/+1 counter on it.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Thopter BMR</name>
+      <set>BMR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Saproling BMR</name>
+      <set>BMR</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Saproling </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bird BMR</name>
+      <set>BMR</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Sword BMR</name>
+      <set>BMR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip {2}</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Phoenix BMR</name>
+      <set>BMR</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Phoenix </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature dies, create a 1/1 red Phoenix creature token with flying, then put a +1/+1 counter on it.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human Soldier BMR</name>
+      <set>BMR</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Scrap BMR</name>
+      <set>BMR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Phoenix BMR</name>
+      <set>BMR</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Phoenix </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

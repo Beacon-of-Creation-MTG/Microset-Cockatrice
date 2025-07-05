@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>PHD</name>
+      <longname>Panarchademia: Hardcover Labyrinth</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Disease Denoter</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Zombie Turtle Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, choose one: —
+• Each opponent loses 1 life for each creature card in their graveyard.
+• You gain 1 life for each counter among creatures you control.</text>
+    </card>
+    <card>
+      <name>Badger Toxicologist</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Badger Druid Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature enters, put a -1/-1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Pagebeast Hunter</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Cleric Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+At the beginning of your end step, if a creature you control was dealt damage this turn, create a food token.</text>
+    </card>
+    <card>
+      <name>Geiger Guy</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature attacks, it gains first strike and radioactive until end of turn. (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)</text>
+    </card>
+    <card>
+      <name>Bloodvine</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with three -1/-1 counters.
+Feral — At the beginning of your end step, remove a -1/-1 counter from this creature for each creature that was dealt damage under your control this turn.</text>
+    </card>
+    <card>
+      <name>Hand-to-Hand Psychologist</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever this creature deals combat damage to a player, you get an experience counter.</text>
+    </card>
+    <card>
+      <name>Lost In Thought</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put five stun counters on target creature.</text>
+    </card>
+    <card>
+      <name>Ionize</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Destroy target artifact.
+• This spell deals 1 damage to target creature and 1 damage to target player.</text>
+    </card>
+    <card>
+      <name>Philosophy Undergrad</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6G</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Goat Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {2} less to cast for each experience counter you have.
+Reach, vigilance, trample</text>
+    </card>
+    <card>
+      <name>Peruse the Schematics</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each artifact type among artifacts you control.
+Draw three cards, then discard a card.</text>
+    </card>
+    <card>
+      <name>Irradiating Syphon</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Radioactive (This spell deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+This spell deals 3 damage to any target and you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Compulsory Study</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature with an odd mana value until end of turn. Untap it, it gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Return to the Page</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Shuffle up to one target artifact or enchantment into its owner’s library. Then shuffle up to four target cards from graveyards into their owner’s libraries.</text>
+    </card>
+    <card>
+      <name>Crafted Craftsman</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Treasure Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Feral — This creature costs {1} less to cast each creature that was dealt damage under your control this turn.
+{T}, Sacrifice this artifact: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Chartographer&apos;s Tome</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature deals combat damage to a player, reveal cards from the top of your library until you reveal a land card. Put it onto the battlefield tapped, then shuffle.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Pinprickler</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1B/R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Put a -1/-1 counter on target creature you control. Each opponent loses 2 life. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Alive Reading</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Name a keyword or ability word, then reveal the top five cards of your library. Put all cards with the named word from among the cards revealed this way into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Archangel of Blueprints</name>
+      <set rarity="mythic">PHD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Artifact spells you cast cost {1} less to cast for each artifact type among artifacts you control.</text>
+    </card>
+    <card>
+      <name>Antimatter Archivist</name>
+      <set rarity="rare">PHD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Radioactive (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+Whenever an opponent mills one or more cards, return target creature card with mana value X or less from your graveyard to your hand, where X is the number of cards milled.</text>
+    </card>
+    <card>
+      <name>Monkey Proofreader</name>
+      <set rarity="rare">PHD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Monkey Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each combat, create a 1/1 red Monkey creature token. That token gains haste until end of turn and attacks this combat if able.
+Feral — At the beginning of your end step, you may discard your hand. If you do, draw a card for each creature that was dealt damage under your control this turn.</text>
+    </card>
+    <card>
+      <name>Autobiography</name>
+      <set rarity="mythic">PHD</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Double equipped creature’s power, toughness, and text box.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Lost Between the Shelves</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, shuffle target creature an opponent owns into their library. Then note its name.
+When this enchantment leaves the battlefield, target opponent may search their library for a card with the noted name, reveal and put it into their hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Scholar of Dread</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Horror Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an opponent mills one or more cards, they lose 1 life and you gain 1 life. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Irresponsible Alchemist</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Radioactive (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+Whenever you put one or more counters on a creature, that creature deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Re-engineer and Research</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>2W/UU/BW/B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return an artifact card from your graveyard to the battlefield.
+Until end of turn, whenever a permanent you control would leave the battlefield, it phases out instead.</text>
+    </card>
+    <card>
+      <name>Irradiating Insight</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1U/BB/RU/R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you attack, target creature you control gains radioactive until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+Whenever an opponent would lose life from radiation, they lose twice that much life instead.</text>
+    </card>
+    <card>
+      <name>Craig, Overeager Surgeon</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>B/RR/GB/G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Craig, Overeager Surgeon attacks, put a -1/-1 counter on target creature you control. It gets +2/+1 until end of turn for each counter among creatures you control.
+When Craig dies, draw a card for each counter on him.</text>
+    </card>
+    <card>
+      <name>Territorial Book Bug</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>R/GG/WR/W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, it fights up to one target other creature you control. When it does, you draw two cards and gain 2 life.</text>
+    </card>
+    <card>
+      <name>Knowledge Elemental</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>G/WW/UG/U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature dies, you may remove an experience counter from yourself. If you do, return this creature from your graveyard to the battlefield tapped and draw a card.</text>
+    </card>
+    <card>
+      <name>Ensouled Enchiridion</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each card type among cards in your opponent’s graveyards.
+When this creature enters, shuffle any number of target cards in graveyards into their owner’s libraries.</text>
+    </card>
+    <card>
+      <name>Nuclear Isotope</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Powerstone </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This artifact enters tapped, when it does, target creature you control gains radioactive until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+{T}, Add {C}. This mana can’t be spent to cast nonartifact spells.</text>
+    </card>
+    <card>
+      <name>Scholar of Thoughts</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, you get an experience counter.</text>
+    </card>
+    <card>
+      <name>Engineering Undergrad</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature gets +1/+0 for each artifact type among artifacts you control.</text>
+    </card>
+    <card>
+      <name>Nuclear Physicist</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+Vigilance, Radioactive (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)</text>
+    </card>
+    <card>
+      <name>Novice Economage</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+This creature has deathtouch and lifelink as long as there are multiple artifact types among artifacts you control.</text>
+    </card>
+    <card>
+      <name>Undead Undertaker</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies. You gain 3 life, then you may remove up to three -1/-1 counters from among creatures you control.</text>
+    </card>
+    <card>
+      <name>Injury Imp</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Imp Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Feral — {T}: This creature deals 1 damage to each opponent for each creature that was dealt damage under your control this turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Professor of Physique</name>
+      <set rarity="rare">PHD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control enters or dies, if that creature’s power is greater than this creature’s, you get an experience counter.
+This creature gets +2/+2 for each experience counter you have.</text>
+    </card>
+    <card>
+      <name>Crystal Powered Trolley</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, draw two cards, then discard a card.
+Radioactive (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+Crew 2</text>
+    </card>
+    <card>
+      <name>Hand-to-Hand Knowledge</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature. You get an experience counter, then that creature gets +X/+X until end of turn, where X is 1 plus the number of experience counters you have.</text>
+    </card>
+    <card>
+      <name>Peer Review</name>
+      <set rarity="rare">PHD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever this enchantment enters or an opponent gets one or more counters for the first time each turn, you get an experience counter.
+At the beginning of your upkeep, surveil X, where X is the number of experience counters you have.</text>
+    </card>
+    <card>
+      <name>Sinister Insight</name>
+      <set rarity="common">PHD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a -1/-1 counter on target creature you control.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Academic Discussion</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For all creatures and players, you may add or remove a counter of each kind of counter on that permanent or player.</text>
+    </card>
+    <card>
+      <name>Alyssa, Student of Life</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3G/WG/W</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Elf Druid Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Feral — At the beginning of your end step, created a 1/1 green Plant creature token for each creature that was dealt damage under your control this turn.</text>
+    </card>
+    <card>
+      <name>Microbiology Man</name>
+      <set rarity="uncommon">PHD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control have “{T}, remove a counter from this creature: Add one mana of any color.”</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Plant PHD</name>
+      <set>PHD</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Alyssa, Student of Life</reverse-related>
+    </card>
+    <card>
+      <name>Radiation PHD</name>
+      <set>PHD</set>
+      <prop>
+        <colors></colors>
+        <type>Radiation</type>
+        <maintype>Radiation</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your precombat mainphase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.</text>
+      <token>1</token>
+      <reverse-related>Irradiating Insight</reverse-related>
+      <reverse-related>Crystal Powered Trolley</reverse-related>
+      <reverse-related>Nuclear Isotope</reverse-related>
+      <reverse-related>Nuclear Physicist</reverse-related>
+      <reverse-related>Antimatter Archivist</reverse-related>
+      <reverse-related>Irradiating Syphon</reverse-related>
+      <reverse-related>Geiger Guy</reverse-related>
+      <reverse-related>Irresponsible Alchemist</reverse-related>
+    </card>
+    <card>
+      <name>Monkey PHD</name>
+      <set>PHD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Monkey Proofreader</reverse-related>
+      <reverse-related>https//wwwartstationcom/artwork/L3DWw</reverse-related>
+    </card>
+    <card>
+      <name>Food PHD</name>
+      <set>PHD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+      <token>1</token>
+      <reverse-related>Pagebeast Hunter</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

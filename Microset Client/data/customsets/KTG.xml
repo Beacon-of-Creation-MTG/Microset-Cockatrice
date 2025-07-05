@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>KTG</name>
+      <longname>Kalthrasha: Genesis</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Jinema, Hauty Priestess</name>
+      <set rarity="rare">KTG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human  Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Boast — 2W: Put a +1/+1 counter on each creature you control. At the beginning of your next end step, if a creature you controlled died this turn, draw a card. (Activate only if this creature attacked this turn and only once each turn.)</text>
+    </card>
+    <card>
+      <name>Quetzalcoatl, Temple Terror</name>
+      <set rarity="rare">KTG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XU</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Serpent Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+This creature enters with X +1/+1 counters on it.
+Whenever this creature enters or attacks, return up to one target creature with mana value less than or equal to the number of counters on this creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Harbingers of Ruination</name>
+      <set rarity="rare">KTG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+{B}, Sacrifice an artifact or creature you control: Put a +1/+1 counter on this creature and draw a card.</text>
+    </card>
+    <card>
+      <name>Hematic Consecration</name>
+      <set rarity="rare">KTG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature.
+Hematic Consecration deals damage equal to double the sacrificed creature’s power divided as you choose among any number of targets.</text>
+    </card>
+    <card>
+      <name>The Fisherman</name>
+      <set rarity="rare">KTG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When The Fisherman enters, you may mill up to six cards.
+Exile a creature card from your graveyard: Create a 3/3 green Beast creature token. Activate only as a sorcery and only once each turn.</text>
+    </card>
+    <card>
+      <name>Xircez the Indomitable</name>
+      <set rarity="mythic">KTG</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Xircez </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control are Blood in addition to their other types and have “1, T, Discard a card, Sacrifice this creature: Draw a card.”
+[+1]: Create two 1/1 black Cultist creature tokens with lifelink.
+[-7]: You get an emblem with “At the beginning of your end step, you may return up to one target creature card with mana value less than or equal to the number of lands you control onto the battlefield. It becomes a Zombie in addition to its other types.”</text>
+    </card>
+    <card>
+      <name>Ritual of Cleansing</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Ritual enters, put a +1/+1 counter on each of up to two target creatures then gain life equal to the number of creatures you control with +1/+1 counters on them.
+Invoke 3 (Tap any number of creatures you control with total power 3 or more: Exile this Ritual. Return it to the battlefield at the beginning of your next upkeep. Activate only as a sorcery.) </text>
+    </card>
+    <card>
+      <name>Bluster Ascension</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target permanent you control. It gains flying until end of turn.
+Animate 2 — 3U (If you cast this spell for for its animate cost, also put two +1/+1 counters on target artifact or land you control and it becomes a 0/0 Elemental creature with haste in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>Carrion Doomsayer</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another nontoken creature dies, you may create a 1/1 black Rat creature token.
+At the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on target Rat you control.</text>
+    </card>
+    <card>
+      <name>Relic Crusher Alpha</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Ape Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, haste
+Boast — {R}: Destroy up to one target artifact. If you controlled that artifact, put a +1/+1 counter on this creature. (Activate only if this creature attacked this turn and only once each turn.)</text>
+    </card>
+    <card>
+      <name>Ritual of Eclipse</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Ritual enters, draw a card. You may play an additional land this turn.
+Invoke 4 (Tap any number of creatures you control with total power 4 or more: Exile this Ritual. Return it to the battlefield at the beginning of your next upkeep. Activate only as a sorcery.) </text>
+    </card>
+    <card>
+      <name>Cursed Prophet</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, vigilance
+At the beginning of each end step, if a permanent you controlled has left the battlefield this turn, draw a card.
+{1}, Sacrifice a token: You gain 2 life and each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>Goldleaf Phoenix</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phoenix </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Whenever you attack with an artifact or land creature you may pay {2}. If you do, return this card from your graveyard to your hand.
+Animate 2 — 3UR (When this creature enters, if you cast it for its animate cost, put two +1/+1 counters on target artifact or land you control and it becomes a 0/0 Elemental creature with haste in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>Adept Vigilante</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Boast — {R/W}: Creatures you control get +1/+1 until end of turn for each Boast ability you’ve activated this turn. (Activate only if this creature attacked this turn and only once each turn.)</text>
+    </card>
+    <card>
+      <name>Jade Sphinx</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Land creatures you control have vigilance and “Whenever this creature dies, draw a card.”
+Animate 3 — 6GU (When this creature enters, if you cast it for its animate cost, put three +1/+1 counters on target artifact or land you control and it becomes a 0/0 Elemental creature with haste in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>Adorned Sepulcher</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Gorgon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a nontoken creature you control dies, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+{T}, Sacrifice two Bloods: Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Alchemist&apos;s Sanguilabe</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Blood Gold </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters or attacks, you may activate one of its activated abilities without paying its costs.
+{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.
+Sacrifice this artifact: Add one mana of any color. Until end of turn, you don’t lose this mana as steps and phases end.</text>
+    </card>
+    <card>
+      <name>Abyssal Mindrender</name>
+      <set rarity="uncommon">KTG</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Whenever this creature deals combat damage to a player, that player discards a card into exile at random. You may cast that card until the next end phase, and mana of any type can be spent to cast it. At the beginning of the next end phase, if it wasn’t cast, put it into its owner’s graveyard.</text>
+    </card>
+    <card>
+      <name>Stalwart Avian</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Boast — {W}: Create a tapped and attacking 1/1 white Bird creature token with flying. Activate only during the declare attackers step. (Activate only if this creature attacked this turn and only once each turn.)</text>
+    </card>
+    <card>
+      <name>K&apos;Eeli Skirmirshers</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When this creature dies, draw a card.</text>
+    </card>
+    <card>
+      <name>Cleanse Corruption</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if it targets a tapped permanent.
+Exile target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Stoneform Technique</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target artifact, creature, or land you control gets +3/+0 until end of turn.
+Animate 2 — 3W (If you cast this spell for for its animate cost, also put two +1/+1 counters on target artifact or land you control and it becomes a 0/0 Elemental creature with haste in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>Tenacious Waveskipper</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Spellshaper </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters or deals combat damage to a player, put a +1/+1 counter on up to one target noncreature artifact or noncreature land you control and it becomes a 0/0 Elemental creature in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Slickback Cutthroat</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this creature enters, return up to one target permanent you control to its owner’s hand.
+Animate 2 — 4U (When this creature enters, if you cast it for its animate cost, put two +1/+1 counters on target artifact or land you control and it becomes a 0/0 Elemental creature with haste in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>Shrine Awakening</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 1.
+Draw a card.
+Animate 1 — 1U (If you cast this spell for for its animate cost, also put one +1/+1 counter on target artifact or land you control and it becomes a 0/0 Elemental creature with haste in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>Spiritual Consultation</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Draw two cards.
+• Return target nonland permanent to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Gilded Omen Raven</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature attacks, you may sacrifice another creature or artifact. If you do, this creature gains deathtouch and lifelink until end of turn. If you sacrificed a creature this way, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Covetous Faerie</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Ceremonial Sacrifice</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may sacrifice a creature.
+Draw two cards and lose 2 life. Then if the additional cost was paid, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Swift Beheading</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature that was dealt damage this turn. Its controller creates a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Pyre Steward</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Boast — 1R: This creature deals 1 damage to target creature. That creature can’t block this turn. (Activate only if this creature attacked this turn and only once each turn.)</text>
+    </card>
+    <card>
+      <name>K&apos;Eeli Raider</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever this creature attacks, it gets +X/+0 until end of turn, where X is the number of permanents you control with +1/+1 counters on them.</text>
+    </card>
+    <card>
+      <name>Mind-Piercing Bolt</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mind-Piercing Bolt deals 3 damage divided as you choose among up to two targets.
+Whenever a creature dealt damage this way dies this turn, exile the top card of your library. You may play it until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Essence Anointing</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Draw two cards and create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Skull Drum Howler</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice this creature: You may put a land card from your hand or graveyard onto the battlefield. It enters with a +1/+1 counter and it becomes a 0/0 Elemental creature in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Displaced Kavu</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Kavu </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t be blocked by creatures with power 2 or less.
+Whenever a +1/+1 counter is put on a permanent you control for the first time each turn, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Resolute Tracker</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, put a +1/+1 counter on target permanent you control. If this counter was put on a land, untap that land.
+Each creature you control with a +1/+1 counter on it has trample.</text>
+    </card>
+    <card>
+      <name>Band Together</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to two target creatures you control each deal damage equal to their power to another target creature.</text>
+    </card>
+    <card>
+      <name>Temple Ruins</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{5}, {T}, Sacrifice this artifact: Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Carved Serpent</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Artifact - Serpent </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{3}: Put a +1/+1 counter on this artifact. Activate only as a sorcery.
+This artifact can’t be blocked as long as it has five or more +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Rot Vanguard</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3B/G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Fungus Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When this creature enters, you may mill up to three cards. Then return up to one target permanent card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Cultic Devotion</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2W/BW/B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 black Cultist creature tokens with lifelink.
+Then if a creature you controlled has died this turn, put a +1/+1 counter on each of those creatures.</text>
+    </card>
+    <card>
+      <name>Rhyel&apos;s Invocation</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2U/RU/R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 3/3 blue and red Elemental creature token.
+Animate 2 — 4U/RU/R (If you cast this spell for for its animate cost, also put two +1/+1 counters on target artifact or land you control and it becomes a 0/0 Elemental creature with haste in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>K&apos;Eeli Giant</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>4R/W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Giant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Boast — 1R/W: Untap this creature. Put a +1/+1 counter on up to one target creature you control with lesser power than this creature. (Activate only if this creature attacked this turn and only once each turn.)</text>
+    </card>
+    <card>
+      <name>Croaking Sentinel</name>
+      <set rarity="common">KTG</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2G/U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Frog Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, draw a card.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Blood KTG</name>
+      <set>KTG</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Blood </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Beast KTG</name>
+      <set>KTG</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Cultist KTG</name>
+      <set>KTG</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Cultist </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Rat KTG</name>
+      <set>KTG</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bird KTG</name>
+      <set>KTG</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental KTG</name>
+      <set>KTG</set>
+      <prop>
+        <colors>UR</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

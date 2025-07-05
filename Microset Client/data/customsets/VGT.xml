@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>VGT</name>
+      <longname>Voc-Gal Techniques</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Gambit General</name>
+      <set rarity="rare">VGT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Skeleton Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a battle enters under your control you may sacrifice a creature, if you do, this creature deals damage equal to the sacrificed creatures power to that battle.
+Whenever you defeat a battle, put two +1/+1 counters on this creature.</text>
+    </card>
+    <card>
+      <name>Three Octave Vocalist</name>
+      <set rarity="rare">VGT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Finale — Whenever an enchantment is put into your graveyard from the battlefield, if this creature isn’t a bard it becomes a Human Bard with prowess and exalted, if it’s a Human Bard it becomes an Avatar Bard with flying, prowess, and exalted. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Fanatical Copycat</name>
+      <set rarity="rare">VGT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone you may have this creature become a copy of it except it has this ability and exalted.</text>
+    </card>
+    <card>
+      <name>Ship of the Spoils</name>
+      <set rarity="mythic">VGT</set>
+      <prop>
+        <colors></colors>
+        <manacost>3 // 0</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle  // Battle - Summoning </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+Whenever you attack, but don’t attack a player, create a treasure token.
+Crew 5
+--- 
+(You may cast a summon from your hand as a battle protected by an opponent. When defeated, it becomes the artifact.)</text>
+      <related>Treasure</related>
+    </card>
+    <card>
+      <name>Tiz the Unjoiner</name>
+      <set rarity="mythic">VGT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Planeswalker - Tiz </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Exile target permanent you control, you may cast it from exile for as long as you control Tiz. When you do create a 1/1 white Faerie Dragon creature token with flying.
+[-2]: Purge target permanent (Remove all counters from it, and unattach all auras, equipment, and fortifications from it.)
+[-6]: You get an emblem with “Whenever you cast a spell from exile, you may pay life equal to its mana value, if you do copy it.”</text>
+      <related>Faerie Dragon</related>
+    </card>
+    <card>
+      <name>Olgal&apos;s Chant</name>
+      <set rarity="mythic">VGT</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>C/WC/UC/BC/RC/G</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sagas you control have “{1/V} — Create a 1/1 white and black Spirit enchantment creature token with decayed.”, “{2/V} — Add {C}.”, “{3/V} — Add {C}.”, and “{4/V} — Draw a card.” in addition to its other abilities.</text>
+      <related>Spirit</related>
+    </card>
+    <card>
+      <name>Birdsong Listener</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, prowess
+When this creature enters, look at the top card of your library. You may reveal it, if it’s a noncreature card put it into your hand. If you don’t, you put it into your graveyard.</text>
+    </card>
+    <card>
+      <name>Zealous Amplifier</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>B/GB/G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever this creature attacks and isn’t blocked, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Songstoker</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever a triggered ability of a creature you control triggers during combat, you may copy it. Do this only once each turn.</text>
+    </card>
+    <card>
+      <name>Purge the Record</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Purge target nonland permanent. (Remove all counters from it, and unattach all auras, equipment, and fortifications from it.)
+II — Create a 1/1 white and black Spirit enchantment creature token with decayed.
+III — Create a copy of target token you control.</text>
+      <related>Spirit</related>
+    </card>
+    <card>
+      <name>Crowd Stampede</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Destroy target artifact or enchantment.
+II — Creatures you control gain exalted until end of turn.
+III — Creatures you control gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Dominarian Angel</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>6W // 1W</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Angel  // Battle - Summon  </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, Vigilance
+--- 
+(You may cast a summon from your hand as a battle protected by an opponent. When defeated, it becomes the creature.)</text>
+    </card>
+    <card>
+      <name>Dominarian Terror</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6U // 1U</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Serpent  // Battle - Summon </type>
+        <maintype>Creature</maintype>
+    <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+--- 
+(You may cast a summon from your hand as a battle protected by an opponent. When defeated, it becomes the creature.)</text>
+    </card>
+    <card>
+      <name>Innistradi Zombie</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>6B // 1B</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Zombie  // Battle - Summon </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, create two 2/2 black Zombie creature tokens.
+--- 
+(You may cast a summon from your hand as a battle protected by an opponent. When defeated, it becomes the creature.)</text>
+      <related>Zombie</related>
+    </card>
+    <card>
+      <name>Dominarian Dragon</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>6R // 1R</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Dragon  // Battle - Summon </type>
+        <maintype>Creature</maintype>
+    <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{R}: This creature gets +1/+0 until end of turn.
+--- 
+(You may cast a summon from your hand as a battle protected by an opponent. When defeated, it becomes the creature.)</text>
+    </card>
+    <card>
+      <name>Tremolos Mumur Bearer</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>G/UG/U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Siren Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may tap it. If you do, create a Murmur token. (It’s a colorless Saga Murmur enchantment with “{2/V}, {3/V} — Add {C}.”)</text>
+      <related>Murmur</related>
+    </card>
+    <card>
+      <name>Ikorian Ceratops</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6G // 1G</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Dinosaur  // Battle - Summon </type>
+        <maintype>Creature</maintype>
+    <pt>12/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+--- 
+(You may cast a summon from your hand as a battle protected by an opponent. When defeated, it becomes the creature.)</text>
+    </card>
+    <card>
+      <name>Echoing Solist </name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1W/BW/B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Finale — Whenever this or another enchantment is put into your graveyard from the battlefield, create a 1/1 white and black Spirit enchantment creature token with decayed. This ability triggers only once each turn. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <related>Spirit</related>
+    </card>
+    <card>
+      <name>Rondelli Siren</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>U/RU/R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Siren Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+This creature can activate abilities as though it had haste.
+{T}: Target creature can’t block alone until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Countros Fanatic</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>R/WR/W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exalted, exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Decreshh Tuner</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors></colors>
+        <manacost>12/C</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Finale — Whenever an enchantment is put into your graveyard from the battlefield, add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Harmonic Hydra</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors></colors>
+        <manacost>2/C2/C2/C</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Hydra Bard </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with four +1/+1 counters.
+2/C2/C: Put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Sterilization Unit</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Robot </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature enters you may purge target permanent you control. (Remove all counters from it, and unattach all auras, equipment, and fortifications from it.)</text>
+    </card>
+    <card>
+      <name>Sirensong Audience</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+As long as you control a Siren or Saga, this creature can attack as though it didn’t have defender.</text>
+    </card>
+    <card>
+      <name>Fanatic Siren</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever a creature you control attacks alone, target creature can’t block alone until end of turn.</text>
+    </card>
+    <card>
+      <name>Hear the Siren&apos;s Song</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Draw two cards, lose 2 life.
+Mill two cards, create a 1/1 blue and red Siren creature token with “{T}: Target creature can’t block alone until end of turn. Activate only as a sorcery.”</text>
+      <related>Siren</related>
+    </card>
+    <card>
+      <name>Even Stars Fall</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)
+Destroy target enchantment, or creature with power 4 or greater.
+Surveil 1 (Look at the top card of your library. You may put it into your graveyard.)
+One bad performance sent her career tumbling to the gutter.</text>
+    </card>
+    <card>
+      <name>Amphiteater Listener</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, create a Murmur token. (It’s a colorless Saga Murmur enchantment with “{2/V},{3/V}— Add {C}.”)</text>
+      <related>Murmur</related>
+    </card>
+    <card>
+      <name>Backup Singer</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2/C} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2/C}.)
+Finale — Whenever this creature or another enchantment is put into your graveyard from the battlefield, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Tuck within Harmony</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>The owner of target nonland permanent puts it on the top or bottom of their library. Then they create a Murmur token. (It’s a colorless Saga Murmur enchantment with “{2/V},{3/V}— Add {C}.”)</text>
+      <related>Murmur</related>
+    </card>
+    <card>
+      <name>Rondelli Recruiter</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Siren Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you control a token, this creature gets +1/+0 and has vigilance.</text>
+    </card>
+    <card>
+      <name>Echo of Silence</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Echo of Silence attacks, you may pay 1G/W. If you do return target Saga card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Mourning Soliliquist</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Siren Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>BB, Pay 2 life: Create a Murmur token. Activate only if an enchantment left the battlefield this turn, and only once each turn as a sorcery. (It’s a colorless Saga Murmur enchantment with “{2/V},{3/V}— Add {C}.”)</text>
+      <related>Murmur</related>
+    </card>
+    <card>
+      <name>Flaming Resolution</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Flaming Resolution you may sacrifice a nontoken enchantment.
+Flaming Resolution deals 4 damage to target creature or planeswalker. If you sacrificed an nontoken enchantment as you cast Flaming Resolution it deals 4 damage to any target instead.</text>
+    </card>
+    <card>
+      <name>Cadence Contralto</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dwarf Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, exalted, haste (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Storykeeper</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dwarf Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Storykeeper enters, create a Murmur token. (It’s a colorless Saga Murmur enchantment with “{2/V},{3/V}— Add {C}.”)</text>
+      <related>Murmur</related>
+    </card>
+    <card>
+      <name>Modal Harmonization</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Destroy target artifact or enchantment.
+• Put a +1/+1 counter on target creature you control.
+• Put a lore counter on target Saga you control.</text>
+    </card>
+    <card>
+      <name>Harmony Essence</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you put a lore counter on a permanent you control, Harmony Essence gets +1/+1 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Polyphonist</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Finale — Whenever an enchantment is put into your graveyard from the battlefield, look at the top three cards of your library, you may reveal a Saga card from among them and put it into your hand, put the rest into your graveyard.
+You may spend mana as though it were mana of any color to cast Saga spells.</text>
+    </card>
+    <card>
+      <name>Subito Slicer</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Menace
+When Subito Slicer enters, destroy target creature if it was dealt damage this turn or is a token.</text>
+    </card>
+    <card>
+      <name>Motif Igniter</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess, prowess
+Finale — Whenever an enchantment is put into your graveyard from the battlefield, add {R}. You don’t lose this mana as steps and phases end.</text>
+    </card>
+    <card>
+      <name>Composed Mercenary</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may have Composed Mercenary fight target creature. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Siren Choir</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>XUU/RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, create X 1/1 blue and red Siren creature tokens with “{T}:Target creature can’t block alone until end of turn. Activate only as a sorcery”.
+Sirens you control have haste.</text>
+      <related>Siren</related>
+    </card>
+    <card>
+      <name>Sennai, Songclade&apos;s Start</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Snake Elf Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Murmurs you control have “{2/V} — Put a +1/+1 counter on target creature you control.” in addition to its other abilities. </text>
+    </card>
+    <card>
+      <name>Downbeat</name>
+      <set rarity="uncommon">VGT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owners hand, each creature blocked by that creature deals damage equal to its power to up to one other target.</text>
+    </card>
+    <card>
+      <name>Murmur</name>
+      <set rarity="common">VGT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Enchantment - Saga Murmur </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)
+“Their song echos on and on.”
+Add {C}. 
+​</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">VGT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">VGT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">VGT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">VGT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">VGT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Zombie</name>
+      <set>VGT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spirit</name>
+      <set>VGT</set>
+      <prop>
+        <colors>WB</colors>
+        <type>Token Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>VGT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Siren</name>
+      <set>VGT</set>
+      <prop>
+        <colors>UR</colors>
+        <type>Token Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}:Target creature can’t block alone until end of turn. Activate only as a sorcery</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Faerie Dragon</name>
+      <set>VGT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Faerie Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Tiz the Unjoiner Emblem</name>
+      <set>VGT</set>
+      <prop>
+        <colors></colors>
+        <type>Emblem</type>
+        <maintype>Emblem</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell from exile, you may pay life equal to its mana value, if you do copy it.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>KEC</name>
+      <longname>Kylem’s Encore</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Subterrene Herbalist</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human  Scientist </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature enters, create a Halo token. (Its an artifact with “{1}, {T}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.)
+Whenever a token you control leaves the battlefield, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Screeching Coyote</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Jackal Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Cowards can’t block Warriors.
+{2}, Discard a card: Target creature becomes a coward until end of turn.</text>
+    </card>
+    <card>
+      <name>Halo Researcher</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scientist </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Create a Halo token. (Its an artifact with “{1}, {T}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.)
+{2}, {T}, Sacrifice a Halo token: Draw a card</text>
+    </card>
+    <card>
+      <name>Marketplace Bookie</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, you may discard a card. If you do, make a bet on a creature you control for two cards. (When that creature next deals combat damage this turn and survives, draw two cards).</text>
+    </card>
+    <card>
+      <name>Awesome Play</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may discard up to two cards. If you do, draw that many cards.
+You gain the crowd’s favour.</text>
+    </card>
+    <card>
+      <name>Fan Favourite</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you gain the crowd’s favour.
+This creature has menace as long as it has power three or greater.
+Some warriors fight to win. He fights to make sure no one ever looks away.</text>
+    </card>
+    <card>
+      <name>Rile up the Crowd</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Rile up the Crowd deals 4 damage divided between up to three different targets.
+Target opponent gains the crowd’s favour.</text>
+    </card>
+    <card>
+      <name>Part-Time Coward</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Citizen Coward </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a Halo token. (Its an artifact with “{1}, {T}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.)
+As long as Part-Time Coward’s power is three or greater, Part-Time Coward is a Warrior and isn’t a Coward.</text>
+    </card>
+    <card>
+      <name>The Crowd&apos;s Favour</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>  -          The Crowd’s Favour</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn target creature you control gets +1/+1 and gains trample until end of turn. 
+Whenever a creature deals combat damage to you, its controller gains the Crowd’s Favor</text>
+    </card>
+    <card>
+      <name>Confident Chalk</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When this creature enters, you may discard a card. If you do, make a bet on this creature for a Treasure. (When this creature next deals combat damage this turn and survives, create a Treasure token.)</text>
+    </card>
+    <card>
+      <name>Adrenaline </name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Minotaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Warriors you control have haste.</text>
+    </card>
+    <card>
+      <name>Betting Station</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, make a bet on a creature you control for a card. (When that creature next deals combat damage this turn and survives, draw a card)
+Whenever a bet on a creature you control pays out, you may exile this enchantment. If you do, return it to the battlefield at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Deductive Procedure</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a Halo token. (Its an artifact with “{1}, {T}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Genius Cardcounter</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2U, {T}: Make a bet on a creature for a card. (When that creature next deals combat damage this turn and survives, you draw a card)</text>
+    </card>
+    <card>
+      <name>Inconspicuous Supplier</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more tokens you control enter, put that many +1/+1 counters on target creature.</text>
+    </card>
+    <card>
+      <name>Nighttime Entertainment </name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+ • Create a Halo token. (Its an artifact with “{1}, {T}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.)
+• Search your library for a basic forest card, put it onto the battlefield tapped, then shuffle.
+• Create a 1/1 red and green Spectator creature token with “This creature can’t block”. </text>
+    </card>
+    <card>
+      <name>Blunt Suspect</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, create a Halo token. (Its an artifact with “{1}, {T}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Clawing Dueler</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Azra Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each combat, if you’ve sacrificed a permanent this turn, this creature gains menace and deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Merciless Execution </name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain the crowd’s favour.
+You draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Fans Beloved</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain the crowd’s favour, put a +1/+1 counter on this creature.
+3W, {T}: You gain the crowd’s favour. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Narcissistic Fighter</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+This creature can only attack alone.</text>
+    </card>
+    <card>
+      <name>Inviting Challenger</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Other warriors you control have vigilance.</text>
+    </card>
+    <card>
+      <name>Odds maker</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Employee </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you make a bet, you may instead make a bet on a creature you control for a card. (When that creature next deals combat damage this turn and survives, you draw a card)</text>
+    </card>
+    <card>
+      <name>Enochlophobia</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When this Aura enters, tap enchanted creature and you gain the crowd’s favour.
+Enchanted creature doesn’t untap during its controller’s untap step unless that player has the crowd’s favour.</text>
+    </card>
+    <card>
+      <name>Capennan Importer</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this creature enters, create a Halo token. (Its an artifact with “{1}, {T}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Victory Chimes</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+Whenever one or more creatures you control attacks alone, untap this artifact.</text>
+    </card>
+    <card>
+      <name>Tournament Invitation</name>
+      <set rarity="rare">KEC</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, you may discard a card. If you do, search your library for a creature card, reveal that card, put it into your hand, then shuffle.
+{X}, {T}, Sacrifice this artifact: The next creature spell you cast this turn costs twice {X} less to cast.</text>
+    </card>
+    <card>
+      <name>Necrosis Tanker</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cowards can’t block Warriors.
+This creature enters with two +1/+1 counters on it for each permanent you’ve sacrificed this turn.
+Whenever you sacrifice one or more permanents, target creature becomes a Coward until end of turn.</text>
+    </card>
+    <card>
+      <name>Contestants Nightmare</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cowards can’t block Warriors.
+Creatures your opponents control that have power less than this creatures base power are Cowards in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Lucky Arrow</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has haste and reach.
+UR: Each bet on equipped creature pays out. (You get whatever you bet for. There is no longer a bet on it.)
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Crowd Side Bookie</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature enters or attacks, make a bet on a creature you control for the crowd’s favour. (When that creature next deals combat damage this turn and survives, you gain the crowd’s favour)
+This creature has menace as long as you have the Crowd’s Favour.</text>
+    </card>
+    <card>
+      <name>Winning Punch</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Winning Punch deals 6 damage to target creature. If that creature was blocking a creature you control that has a bet on it, that bet pays out. (You get whatever you bet for. There is no longer a bet on it.)</text>
+    </card>
+    <card>
+      <name>Gear Affix</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 red Human Warrior creature token.
+Create a Halo token. (Its an artifact with “{1}, {T}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Market Upcomers</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature enters, create a Halo token. (Its an artifact with “{1}, {T}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Crowd Surfer</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Goblin </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature has flying and first strike as long as you have the crowd’s favour.
+3WW, {T}: You gain the crowd’s favour.</text>
+    </card>
+    <card>
+      <name>Crusader of Celebration</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, you gain the crowd’s favour.</text>
+    </card>
+    <card>
+      <name>Contenders Teapot</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Halo </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Sacrifice this artifact: Target creature gets -2/-2 until end of turn.
+{1}, {T}, Sacrifice this artifact: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Sponsors Lounge</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}: Add one mana of any color.
+{3}, {T}: You gain the crowd’s favour. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Tusked Contestor</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Human Elk Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever this creature enters or attacks, create a Halo token. Put a +1/+1 counter on target creature for each token you have created this turn. (Its an artifact with “{1}, {T}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.)
+{2}, Discard this card: Create a Halo token.</text>
+    </card>
+    <card>
+      <name>Arena Vendor</name>
+      <set rarity="uncommon">KEC</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Create a Treasure token.
+{1}, {T}: Make a bet on a creature you control for two Treasures. (When that creature next deals combat damage this turn and survives, create two Treasure tokens.)</text>
+    </card>
+    <card>
+      <name>Finish Him</name>
+      <set rarity="common">KEC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. When you do, exile target card from a graveyard.</text>
+    </card>
+    <card>
+      <name>Krav, Love Crazed</name>
+      <set rarity="rare" splitterPath="/Krav, Love Crazed.png" >KEC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Demon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Versus (When this enters, choose an opponent’s creature. That creature and this can only block or be blocked by each other. When the chosen creature dies, transform this.)      
+---
+(Back): Krav, Enraptured Vanquisher</text>
+      <related attach="transform">Krav, Enraptured Vanquisher</related>
+    </card>
+    <card>
+      <name>Krav, Enraptured Vanquisher</name>
+      <set rarity="rare" splitterPath="/Krav, Enraptured Vanquisher.png" >KEC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Demon Warrior </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch
+{1}, Pay 1 life: This creature gets +1/+1 until end of turn.
+Whenever a non-Angel creature dies, you may pay 2 life. If you do, draw a card.
+---
+(Front): Krav, Love Crazed</text>
+      <related attach="transform">Krav, Love Crazed</related>
+    </card>
+    <card>
+      <name>Will, Slick Competitor</name>
+      <set rarity="rare" splitterPath="/Will, Slick Competitor.png" >KEC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Versus (When this enters, choose an opponent’s creature. That creature and this can only block or be blocked by each other. When the chosen creature dies, transform this.)
+Whenever this creature attacks, Up to one target creature has base power and toughness 0/2 until your next turn.
+---
+(Back): Will, Harsh Champion</text>
+      <related attach="transform">Will, Harsh Champion</related>
+    </card>
+    <card>
+      <name>Will, Harsh Champion</name>
+      <set rarity="rare" splitterPath="/Will, Harsh Champion.png" >KEC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell, tap up to one target creature an opponent controls and put a stun counter on it.
+Creatures your opponent controls with stun counters on them lose all abilities.
+---
+(Front): Will, Slick Competitor</text>
+      <related attach="transform">Will, Slick Competitor</related>
+    </card>
+    <card>
+      <name>Calimh, Najeelas Aid</name>
+      <set rarity="rare" splitterPath="/Calimh, Najeelas Aid.png" >KEC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Versus (When this enters, choose an opponent’s creature. That creature and this can only block or be blocked by each other. When the chosen creature dies, transform this.)
+---
+(Back): Calimh, Reforming Defeater</text>
+      <related attach="transform">Calimh, Reforming Defeater</related>
+    </card>
+    <card>
+      <name>Calimh, Reforming Defeater</name>
+      <set rarity="rare" splitterPath="/Calimh, Reforming Defeater.png" >KEC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When this creature transforms into Calimh, Reforming Defeater, untap all creatures you control. After this phase, there is an additional combat phase.
+---
+(Front): Calimh, Najeelas Aid</text>
+      <related attach="transform">Calimh, Najeelas Aid</related>
+    </card>
+    <card>
+      <name>Lunras, Rugged Contestant</name>
+      <set rarity="rare" splitterPath="/Lunras, Rugged Contestant.png" >KEC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Seal Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Versus (When this enters, choose an opponent’s creature. That creature and this can only block or be blocked by each other if able. When the chosen creature dies, transform this.)
+Whenever this creature deals combat damage to a player, draw a card.
+---
+(Back): Lunras, Heavyweight Victor</text>
+      <related attach="transform">Lunras, Heavyweight Victor</related>
+    </card>
+    <card>
+      <name>Lunras, Heavyweight Victor</name>
+      <set rarity="rare" splitterPath="/Lunras, Heavyweight Victor.png" >KEC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Seal Warrior </type>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever this creature deals combat damage to a player, you may draw that many cards.
+---
+(Front): Lunras, Rugged Contestant</text>
+      <related attach="transform">Lunras, Rugged Contestant</related>
+    </card>
+    <card>
+      <name>The Gladiatorial Wanderer</name>
+      <set rarity="rare" splitterPath="/The Gladiatorial Wanderer.png" >KEC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Versus (When this enters, choose an opponent’s creature. That creature and this can only block or be blocked by each other. When the chosen creature dies, transform this.)
+---
+(Back): The Victorious Wanderer</text>
+      <related attach="transform">The Victorious Wanderer</related>
+    </card>
+    <card>
+      <name>The Victorious Wanderer</name>
+      <set rarity="rare" splitterPath="/The Victorious Wanderer.png" >KEC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Samurai </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever this creature attacks or blocks, you may exile target creature you control, then return it to the battlefield under its owner’s control.
+---
+(Front): The Gladiatorial Wanderer</text>
+      <related attach="transform">The Gladiatorial Wanderer</related>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Halo KEC</name>
+      <set>KEC</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Halo </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Sacrifice this artifact: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spectator KEC</name>
+      <set>KEC</set>
+      <prop>
+        <colors>RG</colors>
+        <type>Token Creature - Spectator </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This token can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Warrior KEC</name>
+      <set>KEC</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure KEC</name>
+      <set>KEC</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this token: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

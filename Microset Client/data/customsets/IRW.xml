@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>IRW</name>
+      <longname>By Iron Will</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Arhat of Unbidden Lessons</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Avatar Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Arhat of Unbidden Lessons enters, return target artifact or enchantment card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Sentry Post</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Sentry Post enters, create two 2/2 black Drone artifact creature tokens with “This creature can’t block.”
+4W, {T}: Return Sentry Post to its owner’s hand. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Lesser-Chariot Vassal</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Noble Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lesser-Chariot Vassal has first strike during your turn.
+When Lesser-Chariot Vassal dies, create a 2/2 black Drone artifact creature token with “This creature can’t block.”</text>
+    </card>
+    <card>
+      <name>Ascendant Art - Form of Forms</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Championed (When you cast this spell, copy it if it targets a Hero or a creature with power 4 or greater. You may choose new targets for the copy.)
+Untap target creature. Until end of turn, it becomes a 3/3 Elemental with vigilance.</text>
+    </card>
+    <card>
+      <name>Hard Bargain</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Create a tapped token that’s a copy of target token you control.</text>
+    </card>
+    <card>
+      <name>Griefspear Ascendant</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Rogue Hero </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Griefspear Ascendant enters with a Weapon token attached to it. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)
+3U: Griefspear Ascendant can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Hesitation</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Hesitation enters, you may return an artifact or creature you control to its owner’s hand. If you do, return an artifact or creature an opponent controls to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Concordance Appraisal</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if an artifact you controlled died this turn.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Countervail</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Counter target creature spell.
+• Tap target creature. Put three stun counters on it.</text>
+    </card>
+    <card>
+      <name>Ascendant Art - Everstasis</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Championed (When you cast this spell, copy it if it targets a Hero or a creature with power 4 or greater. You may choose new targets for the copy.)
+Exile target creature you control, then return it to the battlefield under its owner’s control. Put a menace counter on it.</text>
+    </card>
+    <card>
+      <name>Terrorcrown Ascendant</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Warlock Hero </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Terrorcrown Ascendant enters with a Weapon token attached to it. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)</text>
+    </card>
+    <card>
+      <name>Charnel-Alley Confessor</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Orc Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, {T}, Sacrifice an artifact or creature: Scry 1 if a nontoken permanent was sacrificed this way. Draw a card.</text>
+    </card>
+    <card>
+      <name>Glass-Needle Facsimile</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Drone Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Glass-Needle Facsimile enters, create a 2/2 black Drone artifact creature token with “This creature can’t block.”</text>
+    </card>
+    <card>
+      <name>Arhat&apos;s Mercy</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature you control gains lifelink and indestructible until end of turn.
+• Each player sacrifices a creature.</text>
+    </card>
+    <card>
+      <name>Ceaseless Obstacles</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Ceaseless Obstacles enters, return up to two target creature cards from your graveyard to your hand.
+4BB, Sacrifice Ceaseless Obstacles: Return target creature card from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Wrathstar Ascendant</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Moonfolk Wizard Hero </type>
+        <maintype>Creature</maintype>
+        <pt>1/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wrathstar Ascendant enters with a Weapon token attached to it. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)</text>
+    </card>
+    <card>
+      <name>Arhat of Fraying Patience</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Avatar Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Artifact creatures and equipped creatures you control have haste.</text>
+    </card>
+    <card>
+      <name>Mantar-Am Freeglider</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Rebel Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Whenever Mantar-Am Freeglider attacks, if an artifact you controlled died this turn, it deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Ascendant Art - Soul As Ash</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Championed (When you cast this spell, copy it if it targets a Hero or a creature with power 4 or greater. You may choose new targets for the copy.)
+Double the power of target creature you control until end of turn.</text>
+    </card>
+    <card>
+      <name>Training Montage</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice an artifact or discard a card.
+Draw two cards. Training Montage deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Arhat of Ephemeral Gifts</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Avatar Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Arhat of Ephemeral Gifts enters, create a token that’s a copy of a token you control. If you created a Weapon token this way, attach it to target creature you control.</text>
+    </card>
+    <card>
+      <name>Waymark Eviscerator</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Drone Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Waymark Eviscerator can’t be blocked by creatures with power 2 or less.</text>
+    </card>
+    <card>
+      <name>Enter Malichai</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a land card with a basic land type, reveal it, put it into your hand, then shuffle. If that card is a Forest, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Charnel Pickpocket</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Rebel Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+{T}, Sacrifice another nonland, nontoken permanent: Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Ascendant Art - Horizon&apos;s Eye</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Championed (When you cast this spell, copy it if it targets a Hero or a creature with power 4 or greater. You may choose new targets for the copy.)
+When target creature you control deals combat damage to a player this turn, scry 1, then draw a card.</text>
+    </card>
+    <card>
+      <name>Wayside Atlas</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you attack, target attacking creature can’t be blocked this turn.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Altar of Harmonious Spheres</name>
+      <set rarity="common">IRW</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Altar of Harmonious Spheres enters, look at the top three cards of your library. Put up to one creature or land card from among them into your hand and the rest into your graveyard.
+{T}: Add {C}. You can’t spend this mana to cast noncreature spells.</text>
+    </card>
+    <card>
+      <name>Windscythe Ascendant</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Ranger Hero </type>
+        <maintype>Creature</maintype>
+        <pt>1/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance, lifelink
+Windscythe Ascendant enters with a Weapon token attached to it. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)</text>
+    </card>
+    <card>
+      <name>Shadows in the Way</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Shadows in the Way or a nontoken artifact you control enters, create a 2/2 black Drone artifact creature token with “This creature can’t block.”</text>
+    </card>
+    <card>
+      <name>Aeon-Tested Polearm</name>
+      <set rarity="rare">IRW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Aeon-Tested Polearm enters, look at target opponent’s hand. Choose a nonland permanent card from it. That player exiles that card.
+Whenever equipped creature attacks, you may pay X life. If you do, return target card with mana value X or less exiled with Aeon-Tested Polearm to the battlefield under your control.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Ironspark Ascendant</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artificer Hero </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ironspark Ascendant enters with two Weapon tokens attached to it. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)
+{3}, {T}, Unattach an Equipment from a Hero you control: That Equipment becomes a 3/3 Toy artifact creature with trample. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Time to Reflect</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target creature you control. That token enters tapped with two stun counters on it.</text>
+    </card>
+    <card>
+      <name>Demiurge&apos;s Graces</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two Weapon tokens. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards by sacrificing an artifact in addition to paying their other costs.</text>
+    </card>
+    <card>
+      <name>Swornspine Ascendant</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Viashino Knight Hero </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Swornspine Ascendant enters with a Weapon token attached to it. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)
+Spells you cast or abilities you activate that target Heroes you control cost {1} less to cast and can’t be countered.</text>
+    </card>
+    <card>
+      <name>Utter Conquest</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>5WB</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each nonland permanent you control.
+Exile target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Inadequacy</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you attack, if you control two or more attacking creatures, you may sacrifice one of those creatures. If you do, return Inadequacy from your graveyard to the battlefield tapped and attacking.</text>
+    </card>
+    <card>
+      <name>Pulse of the Ashen Capital</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a nontoken creature you control enters, create a token that’s a copy of that creature, except it’s 1/1 and has haste. Exile that token at end of turn.</text>
+    </card>
+    <card>
+      <name>Thorn-Petal Halo</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As long as it’s your turn and you control no other creatures, Thorn-Petal Halo is a 3/2 Insect creature with deathtouch and lifelink.
+Equipped creature gets +1/+1 and has deathtouch and lifelink.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Immaculate Ledger</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, put a page counter on Immaculate Ledger, then you may remove X page counters from it. If you do, return target creature card with mana value X or less from your graveyard to the battlefield tapped.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Cylothyne, Never-Named</name>
+      <set rarity="rare">IRW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Gorgon Cleric Hero </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cylothyne enters with a Weapon token attached to them. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)
+Whenever an enchanted or equipped creature you control attacks, defending player may have it gain indestructible until end of turn. If they don’t, it gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Cleaver of the Last Path</name>
+      <set rarity="rare">IRW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Drone Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, menace
+Whenever one or more artifact tokens you control enter, you may pay {2}. When you do, those tokens become copies of Cleaver of the Last Path. (This effect lasts indefinitely.)</text>
+    </card>
+    <card>
+      <name>Road&apos;s End</name>
+      <set rarity="uncommon">IRW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if it targets a creature with one or more permanents attached to it. The same is true for a Hero.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Royal Foundry&apos;s Roar</name>
+      <set rarity="rare">IRW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you may sacrifice an artifact. If you do, exile the top card of your library. You may play it this turn. Artifact spells you cast this way cost {2} less to cast.</text>
+    </card>
+    <card>
+      <name>Arhat of the Final Word</name>
+      <set rarity="rare">IRW</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Avatar Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying, vigilance
+When Arhat of the Final Word enters, counter target spell. Its controller searches their library for a card that shares a card type with that spell, reveals it, puts it into their hand, then shuffles.</text>
+    </card>
+    <card>
+      <name>Willwrought Ascendant</name>
+      <set rarity="rare">IRW</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Wizard Hero </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Willwrought Ascendant enters with two Weapon tokens attached to it. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)
+{T}, Sacrifice a token: Scry 1, then draw a card.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

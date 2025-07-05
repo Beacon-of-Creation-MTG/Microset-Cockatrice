@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>REL</name>
+      <longname>Race to the Eternal Lands</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Saheeli&apos;s Pupil</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a Mechanosaur token. It enters with a +1/+1 counter and a flying counter on it. (It’s a 0/0 Dinosaur artifact creature with “When this creature dies, put its counters on target creature you control.”)</text>
+      <related>[Mechanosaur]</related>
+    </card>
+    <card>
+      <name>Siren Surveyor</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Siren Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+2W: Create a Map token. (It’s an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)</text>
+      <related>[Map]</related>
+    </card>
+    <card>
+      <name>Steel Coffin</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell costs {1} less to cast for each artifact you control.
+Exile target creature or artifact until this artifact leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Merfolk Lookout</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Whenever this creature becomes tapped, scry 1.</text>
+    </card>
+    <card>
+      <name>Out of Air</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if it targets a creature spell.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>Hulldrifter</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+When this Vehicle enters, draw two cards.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Swindle</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+      <related>[Treasure]</related>
+      <related>Should this cost RU for balance?</related>
+      <related>Add flavor text?</related>
+      <related>Could change this to UR, U still has four commons because Brazen Deckmage was originally a wildcard slot</related>
+      <related>Upshifted to uncommon</related>
+    </card>
+    <card>
+      <name>The Last of Barrett&apos;s Privateers</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Deathtouch</text>
+    </card>
+    <card>
+      <name>Deadly Dispute</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Treasure token.</text>
+      <related>[Treasure]</related>
+      <related>V1</related>
+      <related>Curse the Dying 1B</related>
+      <related>Flash</related>
+      <related>Enchant creature</related>
+      <related>When enchanted creature dies, exile it If you do, create a token that&apos;s a copy of it except it&apos;s a Zombie in addition to its other types and it has decayed (It can&apos;t block When it attacks, sacrifice it at end of combat)</related>
+      <related>Notes fun enchantment, but does not fill an important role here in the archetypes I probably need more creatures</related>
+      <related>V2</related>
+      <related>Flying</related>
+      <related>When this creature enters, look at target opponent&apos;s hand You may exile a nonland card from it until this creature leaves the battlefield</related>
+      <related>Reanimate 3B (3B, Exile this card from your graveyard Create a token that&apos;s a copy of it, except it&apos;s a Zombie Human Pirate with decayed Reanimate only as a sorcery)</related>
+      <related>v3 deadly dispute</related>
+      <related>existing card</related>
+      <related>Short flavor text?</related>
+    </card>
+    <card>
+      <name>Accursed Tyrranax</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature putrefies, you may put a decayed counter on target creature. (It can’t block. When it attacks, sacrifice it at end of combat.)
+Putrefy 3BB (3BB, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a Zombie Dinosaur with decayed. Reanimate only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Trawl the Depths</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker—{B}
+Choose one. If it was kicked, choose both instead.
+• Put a card with putrefy from exile into your graveyard.
+• Return target creature or Vehicle card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Deepwater Siren</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this creature enters, target creature attacks this turn if able.</text>
+    </card>
+    <card>
+      <name>Bloodcrazed Stowaway</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Vampire Pirate Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature attacks each turn if able.
+Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Dinosaur Ambush</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+0 until end of turn. Up to one target Dinosaur you control gains trample until end of turn and up to one target Human you control gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Hired Dreadnought</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice a Treasure: This Vehicle becomes an artifact creature until end of turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Reckless Rider</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Dinosaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4G: Double this creature’s power and toughness until end of turn.</text>
+    </card>
+    <card>
+      <name>Hunt</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control explores, then it fights target creature you don’t control. (To explore, reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Crumbling Dreadmaw</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Putrefy 4GG (4GG, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a Zombie Dinosaur with decayed. Reanimate only as a sorcery.)
+This creature reanimates with two +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Thundersteel Colossus</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample, haste
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Treasure Ship</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Treasure Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+{T}, Sacrifice this Vehicle: Add one mana of any color.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Treasure Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Cursed Dagger</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0 for each artifact you control and has decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)
+Equip {0}. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>Atzocan Landspeaker</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add an amount of {G} equal to this creature’s power.</text>
+    </card>
+    <card>
+      <name>Fiery Cannonade</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Fiery Cannonade deals 2 damage to each non-Pirate creature.</text>
+    </card>
+    <card>
+      <name>Brazen Deckmage</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Pirate Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Discard a card: This creature gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Swallowed Whole</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature if it has mana value 3 or less.
+Formidable — Exile that creature instead if the total power of creatures you control is 8 or greater.</text>
+    </card>
+    <card>
+      <name>Elena de Ludio, Dread Captain</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Vampire Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other creatures you control that share a creature type with Elena de Ludio get +1/+1.
+Putrefy 3B (3B, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a Zombie Vampire Pirate with decayed. Reanimate only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Mechanosaur Prototype</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with your choice of a counter from among vigilance and +1/+1, and your choice of a counter from among trample and +1/+1.
+When this creature dies, put its counters on target creature you control.</text>
+    </card>
+    <card>
+      <name>Makeshift Munitions</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, Sacrifice an artifact or creature: This enchantment deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Undaunted Navigator</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Whenever this creature attacks, it explores.</text>
+    </card>
+    <card>
+      <name>Mechanosaurus Rex</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>XGW</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with X plus two +1/+1 counters on it.
+Formidable — If the total power of creatures you control is 8 or greater, it also enters with a vigilance counter and a trample counter on it.
+When this creature dies, put its counters on target creature you control.</text>
+    </card>
+    <card>
+      <name>Over the Edge</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact or enchantment.
+• Target creature you control explores, then it explores again. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. Then repeat this process.)</text>
+    </card>
+    <card>
+      <name>Eager Sea Dog</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Haste
+Whenever this creature deals combat damage to a player, create a Treasure token.</text>
+      <related>[Treasure]</related>
+      <related>V1</related>
+      <related>Eager Sea Dog 1UR</related>
+      <related>2/2</related>
+      <related>Haste</related>
+      <related>Whenever this creature deals combat damage to a player, draw a card</related>
+      <related>Sailing (Vehicles crewed by this creature gain all other abilities of this creature until end of turn)</related>
+      <related>Need to change it to more treasure focused</related>
+    </card>
+    <card>
+      <name>Cursed Galleon</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Whenever this Vehicle attacks, you may sacrifice a creature. If you do, draw a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Tyrranax Scavenger</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature dies, you may pay {1}. If you do, this creature explores.
+Putrefy 3BG (3BG, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a Zombie Dinosaur with decayed. Reanimate only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Curse of the Eternal Lands</name>
+      <set rarity="mythic" splitterPath="/Curse of the Eternal Lands.png" >REL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creature cards in your graveyard have putrefy. The putrefy cost is equal to the card’s mana cost.
+At the beginning of your end step, if there are no creature cards in your graveyard, transform Curse of the Eternal Lands.
+---
+(Back): The Immortal City</text>
+      <related attach="transform">The Immortal City</related>
+    </card>
+    <card>
+      <name>The Immortal City</name>
+      <set rarity="mythic" splitterPath="/The Immortal City.png" >REL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Legendary Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add one mana of any color.
+{T}: Target creature you control gains indestructible and can’t be sacrificed until end of turn.
+---
+(Front): Curse of the Eternal Lands</text>
+      <related attach="transform">Curse of the Eternal Lands</related>
+    </card>
+    <card>
+      <name>Dinosaur Tamer</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Dinosaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, put a +1/+1 counter on each other creature you control.</text>
+    </card>
+    <card>
+      <name>Itzquinth, Growing Juvenile</name>
+      <set rarity="rare">REL</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>2RGW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {3}
+Whenever Itzquinth enters or attacks, choose one —
+• Create a 3/3 green Dinosaur creature token.
+• Put three +1/+1 counters on Itzquinth.
+• Draw a card.</text>
+      <related>[Dinosaur]</related>
+      <related>V1</related>
+      <related>I want to make a variant of this card that uses the Decayed mechanic instead?</related>
+      <related>Intrepid Paleontologist 1G</related>
+      <related>Creature — Human Druid R</related>
+      <related>T Add one mana of any color</related>
+      <related>2 Exile target card from a graveyard</related>
+      <related>You may cast Dinosaur creature spells from among cards you own exiled with this creature If you cast a spell this way, that creature enters with a finality counter on it (If a creature with a finality counter on it would die, exile it instead)</related>
+      <related>(Took the G Rare slot for this card)</related>
+      <related>V2</related>
+      <related>Protean Sailor 1UR</related>
+      <related>If a creature you control crewed a Vehicle this turn, you may have this creature enter as a copy of any creature on the battlefield</related>
+      <related>2/2</related>
+      <related>Imitation is the sincerest form of piracy</related>
+      <related>Notes I already have quite a lot of blue red support This should be something else</related>
+      <related>V3</related>
+      <related>Itzquinth, Prince of the Sun 2RGW</related>
+      <related>2/3</related>
+      <related>Trample, haste</related>
+      <related>Whenever Itzquinth attacks, pick one</related>
+      <related>• Create a 3/3 green Dinosaur creature token</related>
+      <related>• Put three +1/+1 counters on Itzquinth</related>
+      <related>• Other Dinosaurs you control gain trample until end of turn</related>
+      <related>V4</related>
+      <related>Itzquinth, Growing Juvenile 2RGW</related>
+      <related>Trample, ward 3</related>
+      <related>Whenever Itzquinth enters or attacks, choose one —</related>
+      <related>• Create a 3/3 green Dinosaur creature token</related>
+      <related>• Put three +1/+1 counters on Itzquinth</related>
+      <related>• Draw a card</related>
+    </card>
+    <card>
+      <name>Assemble the Mechanosaurs</name>
+      <set rarity="rare">REL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XWW</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create X Mechanosaur tokens. They each enter with a +1/+1 counter on them. If X is five or more, they also enter with a flying counter on them. (They are 0/0 Dinosaur artifact creatures with “When this creature dies, put its counters on target creature you control.”)</text>
+      <related>[Mechanosaur]</related>
+      <related>Manufacture Mechanosaurs</related>
+      <related>Manifest Assemble</related>
+    </card>
+    <card>
+      <name>Swinging Swindler</name>
+      <set rarity="rare">REL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Pirate Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sailing, reach
+Whenever this creature attacks, you may exile the top card of defending player’s library and you may play that card until the end of the next main phase. At the beginning of the next end step, if that card remains exiled, create a Treasure token.</text>
+      <related>[Treasure]</related>
+      <related>Do I really need another red card to contribute to u/r? seems like I need more suppor for w/r go wide</related>
+      <related>V1 Swinging Swindler 1R</related>
+      <related>2/2</related>
+      <related>Reach, sailing (Vehicles crewed by this creature gain all other abilities of this creature until end of turn)</related>
+      <related>Whenever this creature attacks, exile the top card of defending player&apos;s library You may play that card as long as it remains exiled</related>
+      <related>This creature crews vehicles as though its power were 2 greater</related>
+      <related>v2</related>
+      <related>Sailing, haste</related>
+      <related>Whenever this creature attacks, you may exile the top card of defending player&apos;s library and you may play that card until the end of your next main phase At the beginning of the next end step, if that card remains exiled, create a Treasure token</related>
+      <related>Notes there&apos;s a mechanical problem here the treasure token will keep getting made each turn? Or if not, it&apos;s a little unclear Might be much easier to read as a modal effect (changed it to &quot;at the beginning of the next end step&quot; to fix this</related>
+    </card>
+    <card>
+      <name>Race to the Eternal Lands</name>
+      <set rarity="rare">REL</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>WBG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, each creature you control explores.
+{1}, Discard a land card: Target creature you control explores.
+3G, Sacrifice this enchantment: Return all land cards from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Captain Barrett, First of the Dead</name>
+      <set rarity="rare">REL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Zombie Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tap an untapped creature you control: Create a Map token.
+Tap two untapped creatures you control: Create a Treasure token.
+Tap three untapped creatures you control: Vehicles you control become artifact creatures until end of turn.</text>
+      <related>[Map]</related>
+    </card>
+    <card>
+      <name>Beast Trapper</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Dinosaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3W, {T}: Tap target creature.
+Formidable — {W}, {T}: Tap target creature. Activate this ability only if creatures you control have total power 8 or greater.</text>
+    </card>
+    <card>
+      <name>Pack Raptors</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike</text>
+    </card>
+    <card>
+      <name>Corpse Cartographer</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice another creature: Create a Map token. (It’s an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)</text>
+      <related>[Map]</related>
+      <related>When this creature enters, chose one —</related>
+      <related>• This creature explores</related>
+      <related>• Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library</related>
+      <related>When this creature enters, chose one —</related>
+      <related>• Target creature you control explores (Reveal the top card of your library Put that card into your hand if it&apos;s a land Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard)</related>
+      <related>• Put a trample counter on target creature you control with a +1/+1 counter on it</related>
+      <related>Determined Navigator 1G</related>
+      <related>2/2</related>
+      <related>Vigilance</related>
+      <related>When this creature enters, create a Map token (It&apos;s an artifact with “1, T, Sacrifice this artifact Target creature you control explores Activate only as a sorcery”)</related>
+      <related>Notes I like the Cartographer&apos;s reference, but right now this is my least favorite card Which psychographic is actually excited about this card? Or what purpose is it serving here?</related>
+      <related>Replace with something to do with mechanosaurs? How can I make this feel correct in green though</related>
+      <related>Replaced Rot Shambler</related>
+      <related>V4 Corpse Cartographer 1G</related>
+      <related>1/1</related>
+      <related>Sacrifice another creature Create a Map token</related>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="common">REL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Voracious Leviathan</name>
+      <set rarity="uncommon">REL</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>3BGU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Voracious Leviathan deals combat damage to a player, you may sacrifice a creature. If you do, draw a card.</text>
+      <related>[Mechanosaur]</related>
+      <related>V1 Whenever Huatli and Saheeli, United attacks, create a Mechanosaur token that&apos;s tapped and attacking It enters with a number of +1/+1 counters on it equal to Huatli and Saheeli&apos;s power (It&apos;s a 0/0 Dinosaur artifact creature with “When this creature dies, put its counters on target creature you control”)</related>
+      <related>not quite exciting enough Maybe would be fine as an uncommon</related>
+      <related>V2</related>
+      <related>Huatli and Saheeli, United</related>
+      <related>URW 3/3 Legendary Creature — Human Artificer Warrior</related>
+      <related>Whenever Huatli and Saheeli, United attacks, create a Mechanosaur token that&apos;s tapped and attacking It enters with a number of +1/+1 counters on it equal to Huatli and Saheeli&apos;s power (It&apos;s a 0/0 Dinosaur artifact creature with “When this creature dies, put its counters on target creature you control”)</related>
+      <related>V3 changed to something totally new</related>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Mechanosaur REL</name>
+      <set>REL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, put its counters on target creature you control.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Copy REL</name>
+      <set>REL</set>
+      <prop>
+        <colors></colors>
+        <type>Token</type>
+        <maintype>Token</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This token can be used to represent a token that’s a copy of a permanent.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dinosaur REL</name>
+      <set>REL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure REL</name>
+      <set>REL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Map REL</name>
+      <set>REL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Map </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. (To explore, reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

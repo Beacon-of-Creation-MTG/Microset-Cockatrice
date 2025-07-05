@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TOON</name>
+      <longname>Toon Set</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Falling Anvil</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Falling Anvil deals damage to target creature equal to the number of artifacts you control.</text>
+    </card>
+    <card>
+      <name>Mind Control Hat</name>
+      <set rarity="rare">TOON</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment Gadget </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Mind Control Hat is equipped to a creature, gain control of it until it is unequipped.
+3UU, {T}: Attach Mind Control Hat. You may activate the ability of another Gadget you control without paying its mana cost. Activate only during your main phase.</text>
+    </card>
+    <card>
+      <name>WilE Coyote, Gourmet</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Coyote Toon </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, zany (Whenever this creature dies, shuffle it into its owner’s library.)
+Whenever you activate the ability of an artifact, you may sacrifice it. When you do so, it deals damage equal to its mana value to any target and to Wil.E Coyote. Then, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Close Down</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever this enchantment or an artifact enters under your control, create a 2/2 white and blue Toon Detective creature token with vigilance. This ability only trigger once per turn.</text>
+    </card>
+    <card>
+      <name>Cog Gang</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Robot Toon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Stretch (When you cast this spell, you may pay any amount of life.)
+Menace
+Whenever this creature enters, for each 3 life paid to cast it, create a token that’s a copy of it.</text>
+    </card>
+    <card>
+      <name>Trickster Wolf</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wolf Toon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, Zany (Whenever this creature dies, shuffle it into its owner’s library.)
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)</text>
+    </card>
+    <card>
+      <name>Duck Season, Rabbit Season</name>
+      <set rarity="rare">TOON</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a spell would counter another spell, counter the first spell instead.</text>
+    </card>
+    <card>
+      <name>The Big Bad Wolf</name>
+      <set rarity="mythic">TOON</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Wolf Toon </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Stretch (When you cast this spell, you may pay any amount of life.)
+When this creatures enters, each players sacrifice X non-Wolf creature, where X is the amount of life paid to cast it. For each creature sacrificed this way, put a +1/+1 counter on The Big Bad Wolf.</text>
+    </card>
+    <card>
+      <name>Laidback Cat</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Toon </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, Zany (Whenever this creature dies, shuffle it into its owner’s library.)
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)</text>
+    </card>
+    <card>
+      <name>Shady Mafioso</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wolf Toon Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Stretch (When you cast this spell, you may pay any amount of life.)
+Shady Mafioso enters with a +1/+1 counter if you paid 2 or more life to cast it.</text>
+    </card>
+    <card>
+      <name>Mysterious Doors</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Surprise 1GG (1GG, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>Human Seeking Gun</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Gadget </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, create a 1/1 red Toon creature token.
+1RR, {T}: This artifact deals 1 damage to each opponent. You may activate the ability of a Gadget you control without paying its mana cost. Activate only during your main phase.</text>
+    </card>
+    <card>
+      <name>Ride the Rocket</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Stretch (When you cast this spell, you may pay any amount of life.)
+Ride the Rocket deals 3 damage to target creature. If you paid 3 or more life to cast this spell, it deals 5 damage instead.</text>
+    </card>
+    <card>
+      <name>Temporary Jetpacks</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Gadget </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, create a 1/1 red Toon creature token.
+1UU, {T}: Up to two creatures you control gain flying until end of turn. You may activate the ability of a Gadget you control without paying its mana cost. Activate only during your main phase.</text>
+    </card>
+    <card>
+      <name>Unlucky Accident</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures your opponents control can’t block this turn.
+Surprise 2RR (2RR, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>Quickshot Duo</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse Toon Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, zany (Whenever this creature dies, shuffle it into its owner’s library.)
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)</text>
+    </card>
+    <card>
+      <name>Wrong Turn at Albuquerque</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell
+Surprise 2UU (2UU, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>Rise to the Fight</name>
+      <set rarity="rare">TOON</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Stretch (When you cast this spell, you may pay any amount of life.)
+Look at the top X cards of your library, where X is the amount of life paid to cast this card. Put up to three creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>Zoinks!</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with mana value two or less.
+Surprise 1BB (1BB, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>Shaggy, All Alone</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Toon Coward </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)
+Whenever this creature attack, if it has three or more +1/+1 counters, double its power. It gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>The Powerpuff Girls</name>
+      <set rarity="rare">TOON</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WWW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Toon Hero </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance, lifelink
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)
+At the beginning of your upkeep, if this creature has three or more +1/+1 counters, it gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Mean Giant</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Stretch (When you cast this spell, you may pay any amount of life.)
+Trample
+This creature enters with an additional +1/+1 counter for each 2 life paid to cast it.</text>
+    </card>
+    <card>
+      <name>The Mystery Machine</name>
+      <set rarity="rare">TOON</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Crew 3
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this artifact. Otherwise, remove all counters from this artifact.)
+Whenever you remove counters from this artifact, create that many Food tokens.
+{2}, {T}, sacrifice a Food: Draw a card.</text>
+    </card>
+    <card>
+      <name>Terrible Wolfman</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Surprise 2GG (2GG, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>Spinach Can</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Food Gadget </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever this artifact enters, draw a card.
+{4}, {T}, Sacrifice this artifact: You gain 3 life. Put two +1/+1 counters on target creature you control. If you activate this ability during your main phase, you may activate the ability of a Gadget you control without paying its mana cost</text>
+    </card>
+    <card>
+      <name>The Script</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Gadget </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever this artifact enters, scry 1.
+{5}, {T}: Draw a card. If you activate this ability during your main phase, you may activate the ability of a Gadget you control without paying its mana cost</text>
+    </card>
+    <card>
+      <name>Yosemite Sam, Angry Cowboy</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you pay life, put a +1/+1 counter on this creature. It deals 1 damage to each opponent.
+3BR, Pay 2 life: Exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+    </card>
+    <card>
+      <name>Spongebob Squarepants</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Sponge Toon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)
+Whenever a counter is removed from this this creature, draw that many cards and create that many Food tokens.</text>
+    </card>
+    <card>
+      <name>Fairly Odd Wand</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Gadget </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever this artifact enters, create a 1/1 white Fairy creature token with flying.
+1WW, {T}: Create a 1/1 white Fairy creature token with flying. You may activate the ability of another Gadget you control without paying its mana cost. Activate only during your main phase.</text>
+    </card>
+    <card>
+      <name>Big Brawl</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 red Warrior creature tokens.
+Creatures you control gain haste and menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Yogi Bear, Friendly Ursine</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Bear Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)
++1/+1 counters on creatures you control can’t be removed outside of costs.</text>
+    </card>
+    <card>
+      <name>Robot Maid</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Robot </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, zany (Whenever this creature dies, shuffle it into its owner’s library.)
+{3}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Moomin Trolls</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Troll </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack with three or more creatures, this creature gains +1/+1 and lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Protective Shark</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Shark </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Zany (Whenever this creature dies, shuffle it into its owner’s library.)
+Whenever this creature enters, create a 1/1 blue Merfolk creature token.
+This creature can’t attack if you don’t control a Merfolk.</text>
+    </card>
+    <card>
+      <name>Cockroach Gang</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Stretch (When you cast this spell, you may pay any amount of life.)
+Whenever this creature enters, if you payed 2 or more life to cast it, each opponents discard a card.</text>
+    </card>
+    <card>
+      <name>Smurf Villager</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Smurf </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a Smurf enters under your control, this creature gains +1/+1 until end of turn. Scry 1.
+A deck can have any number of cards named Smurf Villager.</text>
+    </card>
+    <card>
+      <name>Explosive Result</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell cost {1} less for each artifact ability you activated this turn.
+This spell deals 6 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Pink Panther</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Stretch (When you cast this spell, you may pay any amount of life.)
+At the beginning of your end step, if you paid 2 or more life this turn, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Henchcat</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Gravity is a Harsh Mistress</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target attacking creature without flying.
+Surprise 1W (1W, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>Obsessive Chase</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell cost {1} less if it target a creature that entered this turn. (Yours, or your opponent’s)
+Target creature you control fight target creature you don’t control. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Anchor Down</name>
+      <set rarity="uncommon">TOON</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step.
+At the beginning of enchanted creature’s controller end step, if they didn’t cast a spell this turn, they untap enchanted creature.</text>
+    </card>
+    <card>
+      <name>Mean Hook</name>
+      <set rarity="common">TOON</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to any target. If this spell target a player, it cost {R} more.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

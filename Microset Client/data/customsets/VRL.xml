@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>VRL</name>
+      <longname>Veyrathal</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Ancestral Guardianship</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains hexproof and indestructible until end of turn.
+Skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+      <related>Skill Tree</related>
+    </card>
+    <card>
+      <name>Old Anoria Outrider</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dwarf Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>During your turn, this creature has first strike.
+At the beginning of combat on your turn, if you skilled-up this turn, this creature gets +1/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Radiant Templar</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever you attack, if you control a full party, creatures you control get +1/+1 until end of turn. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
+    </card>
+    <card>
+      <name>Vaelan Bladesworn</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a 1/1 white Bird creature token with flying.</text>
+    </card>
+    <card>
+      <name>Glass Prison</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When this enchantment enters, tap enchanted creature.
+Enchanted creature does not untap during its controller’s untap step.
+When enchanted creature becomes the target of a spell, sacrifice this enchantment.</text>
+    </card>
+    <card>
+      <name>Scroll Peddler</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)
+Whenever you skill-up, create a tapped Treasure token. This ability only triggers once each turn.</text>
+      <related>Skill Tree</related>
+      <related>Treasure</related>
+    </card>
+    <card>
+      <name>Depths Prowler</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+This creature can’t be blocked.</text>
+    </card>
+    <card>
+      <name>Shockbreath Juvenile</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+2UU: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+When this creature becomes monstrous, tap up to two target creatures. Put a stun counter on each creature tapped this way.</text>
+    </card>
+    <card>
+      <name>Ravenous Direbat</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bat Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+This creature can’t block.
+2B: Monstrosity 1. (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous.)</text>
+    </card>
+    <card>
+      <name>Skulking Assassin</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever this creature deals combat damage to a player, skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+      <related>Skill Tree</related>
+    </card>
+    <card>
+      <name>Bishop of High Anoria</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elf Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When this creature enters, you draw a card and lose 1 life.</text>
+    </card>
+    <card>
+      <name>Deadly Alliance</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)
+Destroy target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>United Defense</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)
+United Defense deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Veteran Shieldmage</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this creature enters, up to one target creature or planeswalker you control phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+    </card>
+    <card>
+      <name>Coin-Turner Mercenary</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)
+Reach
+Whenever one or more other creatures you control enter, this creature deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Vaelan Firemage</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)
+{R}: This creature gets +1/+0 until end of turn.</text>
+      <related>Skill Tree</related>
+    </card>
+    <card>
+      <name>Hellstone Outfitter</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Jackal Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a colorless Equipment artifact token named Sword with “Equipped creature gets +1/+1” and equip {2}. Then attach it to this creature.</text>
+    </card>
+    <card>
+      <name>Wanderer of Old Anoria</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}: Add one mana of any color. Activate this ability only once each turn.
+5G: Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Anorian Blade-Guard</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever you skill-up, you may pay 1G. If you do, return this card from your graveyard to the battlefield tapped. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+    </card>
+    <card>
+      <name>Tower Wurm</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+4GG: Monstrosity 4. (If this creature isn’t monstrous, put four +1/+1 counters on it and it becomes monstrous.)</text>
+    </card>
+    <card>
+      <name>Defeat the Dragon</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy up to one target creature with flying.
+Skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+      <related>Skill Tree</related>
+    </card>
+    <card>
+      <name>Mask of Hidden Identity</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Equipment enters, create a 1/1 colorless Shapeshifter creature token with changeling. (It’s every creature type.)
+Equipped creature can’t be blocked.
+Equip {3}</text>
+      <related>Shapeshifter</related>
+      <related> (This card is every creature type)</related>
+    </card>
+    <card>
+      <name>Voltite Automaton</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{3}, Exile this card from your graveyard: Create a Treasure token. Draw a card.</text>
+    </card>
+    <card>
+      <name>Resonance Field</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{2}, {T}, Sacrifice this artifact: Skill-up. Activate only as a sorcery. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+    </card>
+    <card>
+      <name>Deviant Sentinel</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Construct Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, create a colorless Equipment artifact token named Sword with “Equipped creature gets +1/+1” and equip {2}.</text>
+    </card>
+    <card>
+      <name>Nightwalker Warpriest</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3B/R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Cleric Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you discard one or more cards, this creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Emra&apos;s Torrent</name>
+      <set rarity="common">VRL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Counter target creature spell.
+• Return target creature to its owner’s hand.
+Then if you have developed each of the Mage skills, draw a card.</text>
+    </card>
+    <card>
+      <name>Sandtwister Barrier</name>
+      <set rarity="rare">VRL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell can’t be countered if you have developed each of the Mage skills.
+Prevent all damage that would be dealt to you and permanents you control this turn by sources you don’t control. If damage is prevented this way, Sandtwister Barrier deals that much damage to target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Titan of the Wild Ways</name>
+      <set rarity="mythic">VRL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, trample
+Landfall — Whenever a land you control enters, skill-up. Then if you have developed each of the Tracker skills, return target permanent card from your graveyard to your hand. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+      <related>Skill Tree</related>
+    </card>
+    <card>
+      <name>Between the Old and New</name>
+      <set rarity="rare">VRL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may cast that card by discarding a card in addition to its other costs.</text>
+    </card>
+    <card>
+      <name>Gather the Party</name>
+      <set rarity="rare">VRL</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top six cards of your library. You may reveal up to two Cleric, Rogue, Warrior, and/or Wizard cards from among them. Put up to one of the revealed cards onto the battlefield and the other into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Erestes, Skelemancer</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters and whenever you skill-up, you may exile a card from your graveyard. If you do, create a 1/1 black Skeleton creature token.</text>
+    </card>
+    <card>
+      <name>Haunting of Old Anoria</name>
+      <set rarity="mythic">VRL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>8/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters tapped.
+When this creature enters, each opponent may skill-up. (They add a point to their skill tree. If they develop a new skill this way, they may activate it.)
+BB, Sacrifice a creature: Return this creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Wizened Vizier</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dwarf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)
+Whenever you skill-up, put a +1/+1 counter on this creature. If this is the second time this ability has resolved this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Priestess of the First Book</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain life, skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)
+{W}: This creature gains lifelink until end of turn.</text>
+      <related>Skill Tree</related>
+    </card>
+    <card>
+      <name>Purge Soul</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. If it had mana value 2 or less, create a tapped 2/2 black Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Hulking Firesmith</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>7R</manacost>
+        <cmc>8</cmc>
+        <type>Artifact Creature - Golem Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each skill you have developed.
+Trample
+Whenever this creature enters or attacks, create a colorless Equipment artifact token named Sword with “Equipped creature gets +1/+1” and equip {2}.</text>
+    </card>
+    <card>
+      <name>Frostweft Thief</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever you cast a spell during an opponent’s turn, put a +1/+1 counter on this creature.
+Whenever this creature deals combat damage to a player, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Plated Gorehoof</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Boar </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Other creatures you control with +1/+1 counters on them have trample.
+3GG: Monstrosity 3. (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous.)</text>
+    </card>
+    <card>
+      <name>Burn with Hellstone</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. If you have a full party, Burn with Hellstone deals 3 damage to that creature’s controller. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
+    </card>
+    <card>
+      <name>Frostgaze Griff</name>
+      <set rarity="rare">VRL</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Griffin </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you put one or more +1/+1 counters on a creature you control, tap target creature you don’t control. That creature doesn’t untap during its controller’s untap step for as long as you control this creature.
+3GU: Monstrosity 1.</text>
+    </card>
+    <card>
+      <name>Chains of Holy Fire</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack or block, and its activated abilities can’t be activated.
+At the beginning of the upkeep of enchanted creature’s controller, this enchantment deals 2 damage to that player.</text>
+    </card>
+    <card>
+      <name>Enriching Study</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 3 life.
+Draw a card.
+Skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+    </card>
+    <card>
+      <name>Golden Champion</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature is all colors.
+During your turn, this creature has double strike.
+At the beginning of combat on your turn, if you have developed each of the Fighter skills, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Shocking Research</name>
+      <set rarity="uncommon">VRL</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards, then discard two cards.
+Shocking Research deals damage to target creature or planeswalker equal to the number of cards you discarded this turn.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Skill Tree</name>
+      <set>VRL</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you develop a new skill, you may activate it. Otherwise, you may activate one of your developed skills during each of your turns as a sorcery.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Shapeshifter</name>
+      <set>VRL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bird</name>
+      <set>VRL</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>VRL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Sword</name>
+      <set>VRL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip {2}</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Zombie</name>
+      <set>VRL</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton</name>
+      <set>VRL</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental</name>
+      <set>VRL</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>STW</name>
+      <longname>Star Wars Miniset</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Battlefront Medic</name>
+      <set rarity="rare">STW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player, return target creature or artifact card with mana value X or less from your graveyard to the battlefield, where X is the damage dealt this way.</text>
+    </card>
+    <card>
+      <name>Echo Defender</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Arsenal — Whenever you attack with one or more artifact creatures and/or equipped creatures, this creature gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Flight Commander</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Muster 2 (When this creature enters, put two +1/+1 counters on it or on an Army you control. If you don’t control an Army, create a 0/0 black Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Imperial Stormtrooper</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Muster 1 (When this creature enters, put a +1/+1 counter on it or on an Army you control. If you don’t control an Army, create a 0/0 black Army creature token first.)
+Creatures you control with +1/+1 counters on them have vigilance.</text>
+    </card>
+    <card>
+      <name>Loyal Tauntaun</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When this creature dies, return target creature with mana value 2 or less from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Reload Malfunction</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reload Malfunction deals 3 damage to target creature that’s attacking, blocking, or is an artifact.</text>
+    </card>
+    <card>
+      <name>Admiral Ackbar</name>
+      <set rarity="rare">STW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Octopus Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player, you may cast a spell from your hand with mana value X or less without paying its mana cost, where X is the amount of damage dealt this way.</text>
+    </card>
+    <card>
+      <name>Meditation</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top two cards of your library. Put one of them in your hand and the other on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Mos Eisley Sneak</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Alien Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you’ve cast an artifact spell this turn, this creature can’t be blocked.</text>
+    </card>
+    <card>
+      <name>Outer Rim Dealer</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Alien Merchant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Artifact spells you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Snowspeeder Ace</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Dagobah Dragonsnake</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this creature enters, up to one target creature gets -3/-3 until end of turn.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Might of the Empire</name>
+      <set rarity="rare">STW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two—
+• You draw two cards and you lose 2 life.
+• Each opponent discards two cards.
+• Each creature gets -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Mos Espa Crimelord</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Slug Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, Sacrifice a creature or artifact: You gain 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Trandoshan Trackers</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Lizard Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Arsenal — Whenever you attack with one or more artifact creatures and/or equipped creatures, you draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Womp Rats</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever this creature deals combat damage to a player, you may search your library for a card named Womp Rats, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Disintegration</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Disintegration deals 5 damage to target creature. If an artifact was put into your graveyard from the battlefield this turn, Disintegration deals 3 damage to that creature’s controller.</text>
+    </card>
+    <card>
+      <name>Ravenous Rancor</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature enters, target creature you control gets +2/+0 and gains trample until end of turn.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Reprogram</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target artifact or creature until end of turn. Untap that permanent. It gains haste until end of turn. If you gain control of a Vehicle this way, it becomes an artifact creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Shoot First</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Shoot First deals 3 damage to target creature. If Shoot First is the first spell you’ve cast this turn, it deals 5 damage to that creature instead.</text>
+    </card>
+    <card>
+      <name>Spice Smuggler</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Alien Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Tusken Raiders</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Alien Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
+Arsenal — Whenever you attack with one or more artifact creatures and/or equipped creatures, this creature deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Chirpa&apos;s Archer</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Ewok Archer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When this creature enters, choose one—
+• Destroy target artifact.
+• Destroy target creature with flying.</text>
+    </card>
+    <card>
+      <name>Lumbering Dewback</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Muster 1 (When this creature enters, put a +1/+1 counter on it or on an Army you control. If you don’t control an Army, create a 0/0 black Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Territorial Wampa</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Yeti </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature enters, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+    </card>
+    <card>
+      <name>Unruly Brawl</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+1 until end of turn. It fights up to one target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Whispers of Endor</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Create a 1/1 green Ewok creature token.</text>
+    </card>
+    <card>
+      <name>Wookiee Guerrilla</name>
+      <set rarity="rare">STW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wookiee Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+Whenever a Forest you control enters, until end of turn, you may have it become a 3/3 green Wookiee creature with haste and ward {2}.</text>
+    </card>
+    <card>
+      <name>Ewok Firedancers</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Ewok Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {R} or {G}.
+Whenever you cast a spell with mana value 5 or greater, create two 1/1 green Ewok creature tokens.</text>
+    </card>
+    <card>
+      <name>Imperial Technician</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Muster 1 (When this creature enters, put a +1/+1 counter on it or on an Army you control. If you don’t control an Army, create a 0/0 black Army creature token first.)
+Other nontoken creatures you control have muster 1.</text>
+    </card>
+    <card>
+      <name>Rebellion X-Wing</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+When this Vehicle enters, create a 2/1 red Rebel creature token with “This token can’t block.”
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Plasma Rifle</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Equipment enters, it deals 5 damage to up to one target creature.
+Equipped creature gets +1/+1 and has first strike.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Imperial Star Destroyer</name>
+      <set rarity="rare">STW</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying, trample
+Whenever you crew this Vehicle, any number of other target Vehicles you control each become artifact creatures until end of turn.
+Crew 8</text>
+    </card>
+    <card>
+      <name>A280 Blaster</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Equipment enters, create a 2/1 red Rebel creature token with “This token can’t block.” and attach this Equipment to it.
+Equipped creature gets +1/+1
+Equip {1}</text>
+    </card>
+    <card>
+      <name>AT-ST Assault Transport</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Hangar Repair Droid</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Robot </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, return target noncreature artifact card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Imperial Navigators</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Alien Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+Deathtouch</text>
+    </card>
+    <card>
+      <name>Boba Fett</name>
+      <set rarity="rare">STW</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Boba Fett attacks, choose target creature or artifact. When that permanent is put into a graveyard from the battlefield this turn, draw a card and put a +1/+1 counter on Boba Fett.</text>
+    </card>
+    <card>
+      <name>Jabba&apos;s Mechanic</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Alien Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Operator (Whenever this creature crews a Vehicle, that Vehicle gains the following abilities until end of turn.)
+As long as it’s your turn, this creature has first strike.</text>
+    </card>
+    <card>
+      <name>Intel Officer</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Arsenal — Whenever you attack with one or more artifact creatures and/or equipped creatures, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Tree-Village Elder</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Ewok Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G}.
+6G, {T}: Another target creature you control gets +3/+3 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Do or Do Not</name>
+      <set rarity="common">STW</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Look at the top three cards of your library. Put one into your hand and the rest on the bottom of your library in a random order.
+• Counter target spell unless its controller pays {3}.</text>
+    </card>
+    <card>
+      <name>Imperial TIE Fighter</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Whenever this Vehicle deals combat damage to a player, that player discards a card.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Beskar Duelist</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature attacks, you may sacrifice an artifact or another creature. If you do, put a +1/+1 counter on this creature. It gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>One With the Force</name>
+      <set rarity="uncommon">STW</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, draw a card, then you may put a land card from your hand onto the battlefield tapped.
+5GU, Sacrifice this enchantment: You draw two cards and gain 4 life.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

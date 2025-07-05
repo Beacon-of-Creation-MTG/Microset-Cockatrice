@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>CFL</name>
+<longname>Curtain’s Fall</longname>
+<settype></settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Bowing Harlequin</name>
+ <set rarity="common">CFL</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>This creature enters tapped.
+B: Exile Bowing Harlequin from the battlefield or a graveyard plotted. Activate this ability only as a sorcery. (Cast it at sorcery speed on a future turn for no cost.)</text>
+</card>
+<card>
+ <name>Harlequin Bruiser</name>
+ <set rarity="common">CFL</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Rogue </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Pawn (When this enters, if you cast it from your hand, you may exile it plotted. Cast it at sorcery speed on a future turn for no cost.)
+When Harlequin Bruiser enters, destroy target creature that was dealt damage this turn.</text>
+</card>
+<card>
+ <name>Meddling Dottore</name>
+ <set rarity="common">CFL</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Noble Doctor </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace (This creature can’t be blocked except by two or more creatures.)
+Whenever Meddling Dottore deals combat damage to a player, puppet that player until end of turn. (You control that player. You cannot look at their hand.)</text>
+</card>
+<card>
+ <name>Fake or True</name>
+ <set rarity="common">CFL</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent separates the cards in their hand into a face-up pile and a face-down pile. You choose one pile for them to discard.</text>
+</card>
+<card>
+ <name>Lyrepluck Pierrot</name>
+ <set rarity="common">CFL</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Lyrepluck Pierrot doesn’t untap during your untap step.
+Whenever you cast a spell, untap Lyrepluck Pierrot.</text>
+</card>
+<card>
+ <name>Courting Innamorata</name>
+ <set rarity="uncommon">CFL</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Scion </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever this creature becomes the target of a spell or ability, choose another creature you control. That creature gets +2/+1 and gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Eye Catching</name>
+ <set rarity="common">CFL</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. 
+At the beginning of combat this turn, choose a target creature you control. That creature gets +1/+0 and menace until end of turn.</text>
+</card>
+<card>
+ <name>Capitan's Mask</name>
+ <set rarity="common">CFL</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature is a Soldier in addition to its other types and gets first strike and “Whenever this creature attacks, add RRR.”
+Equip 2</text>
+</card>
+<card>
+ <name>Standing Soldiers</name>
+ <set rarity="common">CFL</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Soldier </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Boast — Tap this creature, 1W: Soldiers you control get +2/+0 until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)</text>
+</card>
+<card>
+ <name>Soporific Pierrot</name>
+ <set rarity="common">CFL</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, target opponent taps a creature they control of their choice. That creature doesn’t untap during its controller’s untap step for as long as you control Soporific Pierrot.</text>
+</card>
+<card>
+ <name>Balcony Suitor</name>
+ <set rarity="common">CFL</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Scion Rogue </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever this creature becomes the target of a spell or ability, choose another creature you control. Untap that creature, and it gains hexproof and flying until end of turn.</text>
+</card>
+<card>
+ <name>Dazzling Mystique</name>
+ <set rarity="common">CFL</set>
+ <color>U</color>
+ <manacost>UU</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target permanent you control to its owner’s hand. Counter up to one target spell.</text>
+</card>
+<card>
+ <name>Pierrot Mask</name>
+ <set rarity="common">CFL</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature is a Bard in addition to its other types and has haste and vigilance, and must be blocked if able.
+When equipped creature dies, untap all lands you control.
+Equip 2</text>
+</card>
+<card>
+ <name>Zanni's Mask</name>
+ <set rarity="common">CFL</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature is a Rogue in addition to its other types and gets +2/+2 for each creature that has left the battlefield or spell you have cast this turn.
+Equip 3</text>
+</card>
+<card>
+ <name>Innamorata Masks</name>
+ <set rarity="common">CFL</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature is a Scion in addition to its other types and gets +1/+0 and has ward 2. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Equip X, where X is the number of times this ability has been activated this turn.</text>
+</card>
+<card>
+ <name>Vecchi's Mask</name>
+ <set rarity="common">CFL</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature is an Noble in addition to its other types and gets +1/+0. If it would die, you may exile it and Vecchi’s Mask plotted instead.
+7: Attach this equipment to target creature. This costs 3 less for each player you control.</text>
+</card>
+<card>
+ <name>Rosegarden Pierrot</name>
+ <set rarity="uncommon">CFL</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bard </type>
+ <pt>1/5</pt>
+ <tablerow>2</tablerow>
+ <text>Pawn (When this enters, if you cast it from your hand, you may exile it plotted. Cast it at sorcery speed on a future turn for no cost.)
+Haste, defender
+When this creature enters, until end of turn creatures with defender can attack, and creatures assign damage with their toughness rather than their power.</text>
+</card>
+<card>
+ <name>Flamboyant Sellsword</name>
+ <set rarity="common">CFL</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Soldier Mercenary </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Boast — 2W: Target blocking creature gets first strike until end of turn. This creature gains double strike until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)</text>
+</card>
+<card>
+ <name>Sparkling Vecchi</name>
+ <set rarity="common">CFL</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever this creature blocks a creature, puppet that creature’s controller for the rest of this turn. (You control that player. You cannot look at their hand.)</text>
+</card>
+<card>
+ <name>Mercurial Innamorata</name>
+ <set rarity="uncommon">CFL</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Scion </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a spell or ability targets Mercurial Innamorata, you may copy it. You must select a new target for that copy. This ability triggers only once each turn.</text>
+</card>
+<card>
+ <name>Poignard Punchinello</name>
+ <set rarity="uncommon">CFL</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Soldier Rogue </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Boast — 1R/WR/W: Puppet defending player until the end of turn. (Activate this ability only if this creature attacked this turn and only once each turn. You control that player. You cannot look at their hand.)</text>
+</card>
+<card>
+ <name>Full Cast</name>
+ <set rarity="uncommon">CFL</set>
+ <color>WUBRG</color>
+ <manacost>WUBRG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Noble Soldier Bard Rogue </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Full Cast enters, if you cast it from your hand, exile target permanent.
+T: Add one mana of any color.
+Plot 2 (You may pay 2 and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Blundering Dottore</name>
+ <set rarity="uncommon">CFL</set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Giant Noble Doctor </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, each player gains 5 life.
+W, Exile Blundering Dottore plotted: You may skip your next turn. (Cast it as a sorcery on a later turn without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Inviting Troupe</name>
+ <set rarity="common">CFL</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Rogue </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Pawn (When this enters, if you cast it from your hand, you may exile it plotted. Cast it at sorcery speed on a future turn for no cost.)
+Trample
+When this creature enters, target creature has base power and toughness 6/6 until end of turn.</text>
+</card>
+<card>
+ <name>Smolder</name>
+ <set rarity="common">CFL</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains first strike until end of turn. Then choose one —
+• Smolder deals 1 damage to target creature.
+• Smolder deals 1 damage to each creature.
+• Target player sacrifices an artifact.</text>
+</card>
+<card>
+ <name>Braggadocious Hanger-On</name>
+ <set rarity="common">CFL</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Soldier Advisor </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Boast — R: Target creature you control gains menace until end of turn. (Activate this ability only if this creature attacked this turn and only once each turn.)</text>
+</card>
+<card>
+ <name>Reclining Rhodomonte</name>
+ <set rarity="common">CFL</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Soldier Warrior </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>R: Switch this creature’s power and toughness until end of turn.
+Boast — 1R: Until end of turn, double this creature’s power and it gains trample. (Activate this ability only if this creature attacked this turn and only once each turn.)</text>
+</card>
+<card>
+ <name>Masksworn Masticore</name>
+ <set rarity="common">CFL</set>
+ <color></color>
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Artifact Creature - Masticore </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Pawn (When this enters, if you cast it from your hand, you may exile it plotted. Cast it at sorcery speed on a future turn for no cost.)
+When this creature enters, attach target equipment to target creature.</text>
+</card>
+<card>
+ <name>Celestial Pierrot</name>
+ <set rarity="rare">CFL</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Any player may skip their untap step. If they do, target player of their choice skips their next untap step.
+At the beginning of your upkeep, pay U or sacrifice this.</text>
+</card>
+<card>
+ <name>Curtains' Fall</name>
+ <set rarity="rare">CFL</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each player chooses any number of creatures. Destroy those creatures.</text>
+</card>
+<card>
+ <name>Mercantile Colombina</name>
+ <set rarity="uncommon">CFL</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever you cast a spell or a creature leaves the battlefield, untap target land you control that hasn’t been the target of this ability this turn, and this creature gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Dividing Sword</name>
+ <set rarity="uncommon">CFL</set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+When this artifact enters, attach it to target creature, and target player divides their graveyard into two piles. You choose one. They put the chosen pile on the top or bottom of their library.
+Equipped creature gets +2/+2. </text>
+</card>
+<card>
+ <name>Scheming Scaramouche</name>
+ <set rarity="rare">CFL</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Rogue </type>
+ <pt>5/1</pt>
+ <tablerow>2</tablerow>
+ <text>Pawn (When this enters, if you cast it from your hand, you may exile it plotted. Cast it at sorcery speed on a future turn for no cost.)
+When this creature enters, until end of turn if a creature you control would be destroyed, exile it plotted instead.</text>
+</card>
+<card>
+ <name>The Price of Dignity</name>
+ <set rarity="rare">CFL</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Treasure </type>
+ <tablerow>1</tablerow>
+ <text>When this artifact enters, target opponent gains control of it.
+T, Sacrifice this artifact: Add one mana of any color. The Price of Dignity’s owner puppets The Price of Dignity’s controller during the owner and controller’s next turns. (That player is controlled by the other. Their hand may not be looked at.)</text>
+</card>
+<card>
+ <name>Treasure-Burier</name>
+ <set rarity="uncommon">CFL</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Leviathan Crab </type>
+ <pt>4/6</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, separate instant and sorcery cards in your graveyard into two piles. Target opponent chooses one of those piles for you to exile plotted.
+Defender
+As long as you own a card in exile, this creature can attack and can’t be blocked.</text>
+</card>
+<card>
+ <name>Blank Mask</name>
+ <set rarity="common">CFL</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1, 
+is every creature type, and has 
+“T: Add one mana of any color.”
+Equip 3</text>
+</card>
+<card>
+ <name>Mournblossom Colombina</name>
+ <set rarity="common">CFL</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Pawn (When this enters, if you cast it from your hand, you may exile it plotted. Cast it at sorcery speed on a future turn for no cost.)
+When this creature enters, you may put a land card from your hand or graveyard onto the battlefield tapped.     </text>
+</card>
+<card>
+ <name>Vainglorious Vecchi</name>
+ <set rarity="rare">CFL</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Angel Noble </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+At the beginning of your upkeep, select a target opponent. That player puppets you during your main phases this turn. (They control you. They cannot look at your hand.)</text>
+</card>
+<card>
+ <name>Jingling Innamorata</name>
+ <set rarity="rare">CFL</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Scion </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever this creature becomes the target of a spell or ability, if it’s your turn, untap another creature you control. If you do, after this phase, there’s an additional combat phase. This ability can’t trigger more than twice a turn.
+Menace</text>
+</card>
+<card>
+ <name>Swansong Singer</name>
+ <set rarity="common">CFL</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bird Bard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature attacks, defending player puts your creatures into two piles. You choose one pile to have gain flying until end of turn.</text>
+</card>
+<card>
+ <name>Vecchi's Pawn</name>
+ <set rarity="uncommon">CFL</set>
+ <color>WB</color>
+ <manacost>4WB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Bat </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Pawn (When this enters, if you cast it from your hand, you may exile it plotted. Cast it at sorcery speed on a future turn for no cost.)
+Lifelink, flying
+When this creature leaves the battlefield, it deals 2 damage to any target.</text>
+</card>
+<card>
+ <name>Sympathetic Pierrot</name>
+ <set rarity="uncommon">CFL</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bard </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Pawn (When this enters, if you cast it from your hand, you may exile it plotted. Cast it at sorcery speed on a future turn for no cost.)
+You may have this creature enter as a copy of target creature.</text>
+</card>
+<card>
+ <name>Forlorn Pierrot</name>
+ <set rarity="common">CFL</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Bard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Pawn (When this enters, if you cast it from your hand, you may exile it plotted. Cast it at sorcery speed on a future turn for no cost.)
+When this creature leaves the battlefield, target player scries 2 and draws a card.</text>
+</card>
+<card>
+ <name>Vecchi Coincounter</name>
+ <set rarity="uncommon">CFL</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Noble </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, reveal your top four cards. Target opponent separates them into two piles and you choose one. Mill the unchosen pile. Then, draw the chosen cards, losing life equal to their total mana value.</text>
+</card>
+<card>
+ <name>Gather Ye Rosebuds</name>
+ <set rarity="common">CFL</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +3/+3 until end of turn. Then if this spell was cast from your hand, exile it plotted. (Cast it at sorcery speed on a future turn for no cost.)</text>
+</card>
+
+<!-->Tokens</-->
+
+
+</cards>
+</cockatrice_carddatabase>
