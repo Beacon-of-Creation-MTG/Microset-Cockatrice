@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ASC</name>
+      <longname>Act So Cinematic</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Deconstitute</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant nonland permanent
+Enchanted permanent is an enchantment, and loses all other card types and abilities. (It can’t be attacked if it was a battle, and it can’t attack or block if it was a creature.)</text>
+    </card>
+    <card>
+      <name>Mana-Thrust Skater</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>During your turn, Mana-Thrust Skater has first strike.
+When Mana-Thrust Skater enters or attacks, another target creature you control gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Deep-Focus Automaton</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Amp — {3}, {T}: Tap target creature. (This ability costs {2} less to activate if you’ve attacked with an equipped creature this turn.)</text>
+    </card>
+    <card>
+      <name>Leadership</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Leadership enters, create two 1/1 white Human creature tokens. 2W — 3 </text>
+    </card>
+    <card>
+      <name>Rooftop Runners</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Rooftop Runners enters or attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Amp — 3U: Rooftop Runners gains flying until end of turn. (This ability costs {2} less to activate if you’ve attacked with an equipped creature this turn.)</text>
+    </card>
+    <card>
+      <name>Tune In</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
+    </card>
+    <card>
+      <name>Soaring Gearheads</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Soaring Gearheads enters, create a Weapon token. (It’s an artifact with “Equipped creature gets +1/+1” and has equip {2}.)</text>
+    </card>
+    <card>
+      <name>Flight of Fancy</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Put a flying counter on target creature you control.
+• Target nonland permanent’s owner puts it on their choice of the top or bottom of their library.</text>
+    </card>
+    <card>
+      <name>Rearm</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+Create a Weapon token. (It’s an artifact with “Equipped creature gets +1/+1” and has equip {2}.)</text>
+    </card>
+    <card>
+      <name>Junkyard Emergent</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Junkyard Emergent dies, it deals 2 damage to target player, planeswalker, or battle, and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Ambient Shellcrafter</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>During your turn, Ambient Shellcrafter has lifelink.
+{3}, Sacrifice two artifacts: Create a 4/4 Incarnation creature token that’s all colors. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Model Weapon</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Model Weapon enters, create a 3/2 Construct artifact creature token.
+Equipped creature gets +1/+0 and has menace.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Combat Apprentice</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack with one or more equipped creatures, Combat Apprentice deals 1 damage to target player, planeswalker, or battle.</text>
+    </card>
+    <card>
+      <name>Weapon Surge</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Weapon Surge deals 4 damage to target creature, planeswalker, or battle.
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Patchwork Collector</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Patchwork Collector enters, create a Weapon token. (It’s an artifact with “Equipped creature gets +1/+1” and has equip {2}.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Roving Skaters</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Roving Skaters enters or attacks, you may discard a card. If you do, draw a card.
+Amp — 3R: Roving Skaters gains menace until end of turn. (This ability costs {2} less to activate if you’ve attacked with an equipped creature this turn.)</text>
+    </card>
+    <card>
+      <name>New Sights to See</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card card, put it onto the battlefield tapped, then shuffle. When you search your library this way, put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Traveling Aspirants</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+3G: Put a +1/+1 counter on Traveling Aspirants.</text>
+    </card>
+    <card>
+      <name>Internal Weaponcraft</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a Weapon token, then attach it to target creature you control. (It’s an artifact with “Equipped creature gets +1/+1” and has equip {2}.)
+1G, Exile Internal Weaponcraft from your graveyard: Create a Weapon token, then attach it to target creature you control. Activate only if an opponent lost life or a battle was dealt damage this turn.</text>
+    </card>
+    <card>
+      <name>Greatsword Student</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Greatsword Student enters, create a Weapon token. (It’s an artifact with “Equipped creature gets +1/+1” and has equip {2}.)
+Greatsword Student can’t be blocked by creatures with power 2 or less.</text>
+    </card>
+    <card>
+      <name>Personal Headphones</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Amp — {3}, {T}, Draw a card, then discard a card. (This ability costs {2} less to activate if you’ve attacked with an equipped creature this turn.)
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Infused Heirloom</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{3}, {T}, Sacrifice Infused Heirloom: Destroy target token nonland permanent.
+{7}, {T}, Sacrifice Infused Heirloom: Destroy target nontoken, nonland permanent.</text>
+    </card>
+    <card>
+      <name>Potential</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Potential enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle. 2 — 3 </text>
+    </card>
+    <card>
+      <name>Self-Experimentalist</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Self-Experimentalist dies, create a Weapon token. (It’s an artifact with “Equipped creature gets +1/+1” and has equip {2}.)</text>
+    </card>
+    <card>
+      <name>Genius Attuner</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G} or {U}.
+At the beginning of combat on your turn, if you’ve spent five or more mana to cast spells this turn, put a +1/+1 counter on target creature. Untap it. It gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Soaring Masterwork</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>4WU</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+When Soaring Masterwork enters, mill four cards. Put a nonland permanent card from among the milled cards into your hand. If it was an artifact, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Local Hero</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Local Hero enters, create a Weapon token. (It’s an artifact with “Equipped creature gets +1/+1” and has equip {2}.)
+Local Hero gets +1/+1 for each nonland permanent you control.</text>
+    </card>
+    <card>
+      <name>Free-Wheeling Musician</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+At the beginning of your second main phase, if you’ve discarded a card this turn, exile the top card of your library. You may play it until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Celebration</name>
+      <set rarity="rare">ASC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Celebration enters or attacks, discard your hand, then draw three cards. 2RR — 3 </text>
+    </card>
+    <card>
+      <name>Town Trasher</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Town Trasher can’t be blocked by creatures with power 2 or less.
+At the beginning of your second main phase, if an opponent lost life or a battle was dealt damage this turn, put a +1/+1 counter on Town Trasher. It deals 1 damage to each opponent and to each battle they protect.</text>
+    </card>
+    <card>
+      <name>Vivid Pyrokinetic</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Noncreature spells you cast cost {1} less to cast.
+When Vivid Pyrokinetic enters, mill three cards. When you do, return target noncreature, nonland card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Crafty Combatant</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Crafty Combatant enters, create a Weapon token. (It’s an artifact with “Equipped creature gets +1/+1” and has equip {2}.)
+Whenever you attack, target attacking equipped creature gains your choice of first strike or trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Verdant Repose</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Verdant Repose enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Verdant Repose gets +1/+1 for each land you control. 1GG — 3 </text>
+    </card>
+    <card>
+      <name>Ambient Summoner</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ambient Summoner enters, create a 4/4 Incarnation creature token that’s all colors.
+Whenever you attack, attacking creatures with power 4 or greater can’t be blocked by creatures with power 2 or less until end of turn.</text>
+    </card>
+    <card>
+      <name>Spellwork Enthusiast</name>
+      <set rarity="uncommon">ASC</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Calm</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Calm enters, tap target artifact or creature. Put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.) 2U — 3 (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+    </card>
+    <card>
+      <name>Fateful Encounter</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Quick Slash</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Put a +1/+1 counter on target creature. It gets an additional +1/+1 until end of turn.
+• Destroy target noncreature, nonland permanent.</text>
+    </card>
+    <card>
+      <name>Outpace</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to another target creature, planeswalker, or battle.</text>
+    </card>
+    <card>
+      <name>A Dark Whisper</name>
+      <set rarity="common">ASC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When A Dark Whisper enters, you draw two cards and you lose 2 life. 2B — 3 </text>
+    </card>
+    <card>
+      <name>Ambition</name>
+      <set rarity="mythic">ASC</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>4BR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>7/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ambition enters or attacks, it deals X damage to target creature, planeswalker, or battle, where X is the number of creatures and battles you control. Excess damage is dealt to that permanent’s controller instead. 2BR — 3 </text>
+    </card>
+    <card>
+      <name>Creation</name>
+      <set rarity="mythic">ASC</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>5GU</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Creation enters or attacks, create a 1/1 Servo artifact creature token. When you do, you may have each token you control become a copy of target permanent not named Creation, except it’s not legendary. 2GU — 3 </text>
+    </card>
+    <card>
+      <name>Introspection</name>
+      <set rarity="mythic">ASC</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>5UB</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>5/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Introspection enters or attacks, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard. 2UB — 3 </text>
+    </card>
+    <card>
+      <name>Love</name>
+      <set rarity="mythic">ASC</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>4RW</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Love enters or attacks, up to two target creatures gain double strike until end of turn. Untap them. 1RW — 3 </text>
+    </card>
+    <card>
+      <name>Wanderlust</name>
+      <set rarity="mythic">ASC</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>5GW</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Wanderlust enters or attacks, mill six cards, then put up to two permanent cards with total mana value 3 or less from from among the milled cards onto the battlefield. 2GW — 3 </text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

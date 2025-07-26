@@ -14,14 +14,14 @@
       <set rarity="rare">XRX</set>
       <prop>
         <colors>B</colors>
-        <manacost>B</manacost>
-        <cmc>1</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile your hand.
-Voidborne {0} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)</text>
+Voidborne {0}. (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)</text>
     </card>
     <card>
       <name>Empty Hallway</name>
@@ -212,21 +212,21 @@ If enchanted creature doesn’t belong, it gets +1/+1. Otherwise, it gets -1/-1.
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target spell. Its owner may cast it for as long as it remains exiled.
-Voidborne {0} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)</text>
+Voidborne— Exile a card from your hand.  (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it by exiling a card from your hand.)</text>
     </card>
     <card>
       <name>Tumble Down the Stairs</name>
       <set rarity="rare">XRX</set>
       <prop>
         <colors>W</colors>
-        <manacost>W</manacost>
-        <cmc>1</cmc>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Destroy target creature. Its controller draws a card.
-Voidborne {0} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)</text>
+      <text>Destroy target creature, artifact, or planeswalker. Its controller draws a card.
+Voidborne {1} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}.)</text>
     </card>
     <card>
       <name>Fight with Reality</name>
@@ -323,11 +323,11 @@ Voidborne 1R/WR/W (When this card is put into exile from anywhere other than the
         <cmc>4</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When this creature enters, counter target spell. Its controller may scour 2.  (To scour 2, look at the top two cards of your library, exile any number of them, then put the rest on top in any order.)</text>
+When this creature enters, counter up to one target spell. Its controller may scour 2.  (To scour 2, look at the top two cards of your library, exile any number of them, then put the rest on top in any order.)</text>
     </card>
     <card>
       <name>Shrouded Watcher</name>
@@ -668,141 +668,18 @@ You may cast this card from exile as long as you control a creature that doesn�
 2G, Exile this card from your hand: Conjure a basic land card of your choice onto the battlefield tapped.</text>
     </card>
     <card>
-      <name>Idea</name>
-      <set rarity="">XRX</set>
+      <name>Tumble Down the Stairs SBHJ</name>
+      <set rarity="rare">XRX</set>
       <prop>
-        <colors></colors>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
-        <type>Ethereal Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>(This card can’t be put into your deck during deckbuilding.)
-Scour 3. (Look at the top three cards of your library, exile any number of them, then put the rest on top in any order.)</text>
-    </card>
-    <card>
-      <name>Multitudes</name>
-      <set rarity="">XRX</set>
-      <prop>
-        <colors></colors>
-        <manacost>X1</manacost>
-        <cmc>1</cmc>
-        <type>Ethereal Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>(This card can’t be put into your deck during deckbuilding.)
-Create X 1/1 colorless creature tokens.</text>
-      <related>Token Creature</related>
-    </card>
-    <card>
-      <name>Vanished</name>
-      <set rarity="">XRX</set>
-      <prop>
-        <colors></colors>
-        <manacost>3</manacost>
-        <cmc>3</cmc>
-        <type>Ethereal Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>(This card can’t be put into your deck during deckbuilding.)
-Exile target nonland, noncreature permanent.</text>
-    </card>
-    <card>
-      <name>Presence</name>
-      <set rarity="">XRX</set>
-      <prop>
-        <colors></colors>
-        <manacost>4</manacost>
-        <cmc>4</cmc>
-        <type>Ethereal Creature</type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>(This card can’t be put into your deck during deckbuilding.)
-Voidborne {4} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {4}.)</text>
-    </card>
-    <card>
-      <name>Forget</name>
-      <set rarity="">XRX</set>
-      <prop>
-        <colors></colors>
-        <manacost>2</manacost>
+        <colors>W</colors>
+        <manacost>1W</manacost>
         <cmc>2</cmc>
-        <type>Ethereal Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(This card can’t be put into your deck during deckbuilding.)
-Exile up to two target cards in graveyards. Exiling cards this way can’t cause Voidborne abilities to trigger. You gain 3 life.</text>
-    </card>
-    <card>
-      <name>Mountain</name>
-      <set rarity="">XRX</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Mountain </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Island</name>
-      <set rarity="">XRX</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Island </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Swamp</name>
-      <set rarity="">XRX</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Swamp </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Plains</name>
-      <set rarity="">XRX</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Plains </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Forest</name>
-      <set rarity="">XRX</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Forest </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
+      <text>Destroy target creature, artifact, or planeswalker. Its controller draws a card.
+Voidborne {1}</text>
     </card>
 
     <!-->Tokens</-->
